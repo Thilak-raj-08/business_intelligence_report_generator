@@ -1,0 +1,2001 @@
+Order_ID,Salesperson,Region,Product,Category,Quantity,Revenue,Profit
+O0001,Ravi,Western,Keyboard,Electronics,10,45000,13000
+O0002,Meena,Southern,Water Bottle,Accessories,5,9000,3500
+O0003,Ravi,Northern,Mouse,Electronics,9,22500,6300
+O0004,Priya,Central,Pen,Stationery,9,900,315
+O0005,Suresh,Central,Notebook,Stationery,3,1500,510
+O0006,Nila,Central,Backpack,Accessories,5,27500,8000
+O0007,Meena,Northern,T-Shirt,Clothing,9,19800,7200
+O0008,Meena,Western,Mouse,Electronics,5,12500,3500
+O0009,Arun,Northern,Keyboard,Electronics,2,9000,2600
+O0010,Nila,Eastern,Pen,Stationery,10,1000,350
+O0011,Suresh,Northern,Headphones,Electronics,1,6500,1900
+O0012,Meena,Western,Pen,Stationery,4,400,140
+O0013,Priya,Eastern,Headphones,Electronics,8,52000,15200
+O0014,Ravi,Eastern,T-Shirt,Clothing,4,8800,3200
+O0015,Kavin,Western,Backpack,Accessories,1,5500,1600
+O0016,Arun,Western,Headphones,Electronics,11,71500,20900
+O0017,Arun,Central,Backpack,Accessories,8,44000,12800
+O0018,Priya,Central,Pen,Stationery,4,400,140
+O0019,Priya,Southern,Water Bottle,Accessories,6,10800,4200
+O0020,Priya,Southern,Keyboard,Electronics,11,49500,14300
+O0021,Kavin,Eastern,Backpack,Accessories,12,66000,19200
+O0022,Arun,Western,Water Bottle,Accessories,1,1800,700
+O0023,Ravi,Central,Mouse,Electronics,12,30000,8400
+O0024,Suresh,Southern,Keyboard,Electronics,5,22500,6500
+O0025,Divya,Southern,Pen,Stationery,4,400,140
+O0026,Suresh,Southern,T-Shirt,Clothing,6,13200,4800
+O0027,Nila,Central,Keyboard,Electronics,7,31500,9100
+O0028,Divya,Western,Notebook,Stationery,10,5000,1700
+O0029,Nila,Northern,Pen,Stationery,1,100,35
+O0030,Arun,Southern,Mouse,Electronics,4,10000,2800
+O0031,Kavin,Southern,T-Shirt,Clothing,10,22000,8000
+O0032,Nila,Southern,Water Bottle,Accessories,9,16200,6300
+O0033,Meena,Eastern,Mouse,Electronics,11,27500,7700
+O0034,Suresh,Central,Backpack,Accessories,10,55000,16000
+O0035,Divya,Western,Backpack,Accessories,7,38500,11200
+O0036,Meena,Western,Pen,Stationery,3,300,105
+O0037,Priya,Central,Water Bottle,Accessories,12,21600,8400
+O0038,Priya,Central,Backpack,Accessories,1,5500,1600
+O0039,Nila,Eastern,Keyboard,Electronics,9,40500,11700
+O0040,Suresh,Western,T-Shirt,Clothing,6,13200,4800
+O0041,Nila,Southern,Keyboard,Electronics,10,45000,13000
+O0042,Divya,Central,Keyboard,Electronics,2,9000,2600
+O0043,Ravi,Eastern,Water Bottle,Accessories,11,19800,7700
+O0044,Meena,Northern,Pen,Stationery,4,400,140
+O0045,Meena,Central,T-Shirt,Clothing,1,2200,800
+O0046,Arun,Central,Backpack,Accessories,4,22000,6400
+O0047,Arun,Western,Water Bottle,Accessories,9,16200,6300
+O0048,Nila,Southern,Pen,Stationery,4,400,140
+O0049,Ravi,Central,Pen,Stationery,11,1100,385
+O0050,Priya,Eastern,Mouse,Electronics,7,17500,4900
+O0051,Meena,Southern,Keyboard,Electronics,9,40500,11700
+O0052,Nila,Southern,T-Shirt,Clothing,7,15400,5600
+O0053,Divya,Northern,Backpack,Accessories,11,60500,17600
+O0054,Divya,Northern,Water Bottle,Accessories,11,19800,7700
+O0055,Meena,Central,Water Bottle,Accessories,5,9000,3500
+O0056,Divya,Southern,Notebook,Stationery,6,3000,1020
+O0057,Priya,Northern,Notebook,Stationery,2,1000,340
+O0058,Nila,Central,Pen,Stationery,8,800,280
+O0059,Divya,Northern,Notebook,Stationery,9,4500,1530
+O0060,Kavin,Northern,Keyboard,Electronics,1,4500,1300
+O0061,Meena,Eastern,T-Shirt,Clothing,12,26400,9600
+O0062,Ravi,Central,T-Shirt,Clothing,11,24200,8800
+O0063,Ravi,Northern,Water Bottle,Accessories,12,21600,8400
+O0064,Kavin,Eastern,T-Shirt,Clothing,10,22000,8000
+O0065,Ravi,Eastern,Backpack,Accessories,2,11000,3200
+O0066,Divya,Eastern,Mouse,Electronics,8,20000,5600
+O0067,Ravi,Southern,Keyboard,Electronics,11,49500,14300
+O0068,Divya,Eastern,Water Bottle,Accessories,9,16200,6300
+O0069,Priya,Northern,T-Shirt,Clothing,3,6600,2400
+O0070,Meena,Eastern,T-Shirt,Clothing,3,6600,2400
+O0071,Kavin,Northern,Notebook,Stationery,5,2500,850
+O0072,Nila,Central,Headphones,Electronics,11,71500,20900
+O0073,Kavin,Western,Keyboard,Electronics,8,36000,10400
+O0074,Arun,Northern,Headphones,Electronics,10,65000,19000
+O0075,Ravi,Southern,Keyboard,Electronics,2,9000,2600
+O0076,Ravi,Eastern,Mouse,Electronics,9,22500,6300
+O0077,Kavin,Central,Water Bottle,Accessories,10,18000,7000
+O0078,Ravi,Northern,Notebook,Stationery,1,500,170
+O0079,Nila,Eastern,Water Bottle,Accessories,7,12600,4900
+O0080,Ravi,Southern,Keyboard,Electronics,11,49500,14300
+O0081,Arun,Southern,Pen,Stationery,5,500,175
+O0082,Suresh,Eastern,T-Shirt,Clothing,4,8800,3200
+O0083,Kavin,Southern,Headphones,Electronics,2,13000,3800
+O0084,Meena,Eastern,Notebook,Stationery,8,4000,1360
+O0085,Priya,Southern,Water Bottle,Accessories,4,7200,2800
+O0086,Kavin,Central,Pen,Stationery,7,700,245
+O0087,Arun,Central,Notebook,Stationery,6,3000,1020
+O0088,Kavin,Southern,Headphones,Electronics,10,65000,19000
+O0089,Meena,Northern,Pen,Stationery,3,300,105
+O0090,Suresh,Central,Mouse,Electronics,9,22500,6300
+O0091,Nila,Southern,Mouse,Electronics,4,10000,2800
+O0092,Divya,Western,Pen,Stationery,3,300,105
+O0093,Arun,Western,Water Bottle,Accessories,1,1800,700
+O0094,Divya,Western,T-Shirt,Clothing,7,15400,5600
+O0095,Kavin,Western,Keyboard,Electronics,10,45000,13000
+O0096,Kavin,Western,Headphones,Electronics,9,58500,17100
+O0097,Priya,Southern,Pen,Stationery,5,500,175
+O0098,Kavin,Northern,Keyboard,Electronics,5,22500,6500
+O0099,Nila,Southern,Backpack,Accessories,2,11000,3200
+O0100,Suresh,Northern,T-Shirt,Clothing,9,19800,7200
+O0101,Kavin,Southern,Backpack,Accessories,12,66000,19200
+O0102,Priya,Southern,T-Shirt,Clothing,7,15400,5600
+O0103,Arun,Central,Notebook,Stationery,10,5000,1700
+O0104,Nila,Central,Backpack,Accessories,5,27500,8000
+O0105,Arun,Eastern,Headphones,Electronics,10,65000,19000
+O0106,Kavin,Southern,T-Shirt,Clothing,12,26400,9600
+O0107,Kavin,Eastern,T-Shirt,Clothing,11,24200,8800
+O0108,Meena,Eastern,Pen,Stationery,1,100,35
+O0109,Divya,Southern,Notebook,Stationery,2,1000,340
+O0110,Divya,Eastern,Headphones,Electronics,3,19500,5700
+O0111,Arun,Northern,Notebook,Stationery,1,500,170
+O0112,Arun,Eastern,T-Shirt,Clothing,2,4400,1600
+O0113,Suresh,Eastern,Backpack,Accessories,12,66000,19200
+O0114,Nila,Northern,Headphones,Electronics,3,19500,5700
+O0115,Divya,Eastern,Mouse,Electronics,2,5000,1400
+O0116,Meena,Central,Headphones,Electronics,5,32500,9500
+O0117,Suresh,Central,T-Shirt,Clothing,12,26400,9600
+O0118,Priya,Eastern,T-Shirt,Clothing,4,8800,3200
+O0119,Kavin,Northern,Keyboard,Electronics,7,31500,9100
+O0120,Arun,Central,T-Shirt,Clothing,3,6600,2400
+O0121,Suresh,Southern,Notebook,Stationery,7,3500,1190
+O0122,Priya,Central,Headphones,Electronics,12,78000,22800
+O0123,Divya,Eastern,Keyboard,Electronics,12,54000,15600
+O0124,Meena,Western,Headphones,Electronics,11,71500,20900
+O0125,Priya,Western,Backpack,Accessories,4,22000,6400
+O0126,Ravi,Northern,Notebook,Stationery,9,4500,1530
+O0127,Divya,Western,Mouse,Electronics,3,7500,2100
+O0128,Meena,Western,Backpack,Accessories,10,55000,16000
+O0129,Ravi,Northern,Mouse,Electronics,4,10000,2800
+O0130,Priya,Western,Mouse,Electronics,10,25000,7000
+O0131,Priya,Western,Water Bottle,Accessories,2,3600,1400
+O0132,Suresh,Northern,Notebook,Stationery,9,4500,1530
+O0133,Suresh,Eastern,T-Shirt,Clothing,10,22000,8000
+O0134,Suresh,Central,Water Bottle,Accessories,4,7200,2800
+O0135,Nila,Northern,Pen,Stationery,8,800,280
+O0136,Kavin,Southern,Pen,Stationery,12,1200,420
+O0137,Suresh,Southern,Keyboard,Electronics,2,9000,2600
+O0138,Arun,Southern,Backpack,Accessories,9,49500,14400
+O0139,Suresh,Eastern,Water Bottle,Accessories,1,1800,700
+O0140,Nila,Southern,Water Bottle,Accessories,5,9000,3500
+O0141,Kavin,Eastern,Headphones,Electronics,2,13000,3800
+O0142,Nila,Southern,Pen,Stationery,11,1100,385
+O0143,Nila,Northern,T-Shirt,Clothing,10,22000,8000
+O0144,Suresh,Eastern,Keyboard,Electronics,2,9000,2600
+O0145,Priya,Southern,Backpack,Accessories,2,11000,3200
+O0146,Meena,Central,Notebook,Stationery,1,500,170
+O0147,Ravi,Southern,Pen,Stationery,9,900,315
+O0148,Priya,Central,Headphones,Electronics,8,52000,15200
+O0149,Priya,Northern,Mouse,Electronics,2,5000,1400
+O0150,Arun,Eastern,Keyboard,Electronics,5,22500,6500
+O0151,Meena,Northern,Water Bottle,Accessories,8,14400,5600
+O0152,Nila,Central,Pen,Stationery,4,400,140
+O0153,Divya,Southern,Mouse,Electronics,4,10000,2800
+O0154,Suresh,Northern,Mouse,Electronics,9,22500,6300
+O0155,Meena,Northern,Water Bottle,Accessories,7,12600,4900
+O0156,Divya,Northern,Keyboard,Electronics,12,54000,15600
+O0157,Nila,Western,Keyboard,Electronics,8,36000,10400
+O0158,Priya,Eastern,Backpack,Accessories,4,22000,6400
+O0159,Arun,Western,T-Shirt,Clothing,5,11000,4000
+O0160,Suresh,Southern,Notebook,Stationery,7,3500,1190
+O0161,Priya,Eastern,T-Shirt,Clothing,6,13200,4800
+O0162,Nila,Central,Keyboard,Electronics,8,36000,10400
+O0163,Priya,Central,Water Bottle,Accessories,11,19800,7700
+O0164,Arun,Western,Water Bottle,Accessories,4,7200,2800
+O0165,Meena,Central,Mouse,Electronics,1,2500,700
+O0166,Ravi,Southern,Backpack,Accessories,7,38500,11200
+O0167,Divya,Central,Mouse,Electronics,5,12500,3500
+O0168,Meena,Central,T-Shirt,Clothing,2,4400,1600
+O0169,Arun,Northern,Keyboard,Electronics,3,13500,3900
+O0170,Ravi,Western,Mouse,Electronics,1,2500,700
+O0171,Nila,Central,Notebook,Stationery,10,5000,1700
+O0172,Arun,Eastern,Water Bottle,Accessories,9,16200,6300
+O0173,Nila,Northern,Backpack,Accessories,5,27500,8000
+O0174,Ravi,Northern,Headphones,Electronics,2,13000,3800
+O0175,Nila,Southern,Notebook,Stationery,12,6000,2040
+O0176,Meena,Southern,Backpack,Accessories,3,16500,4800
+O0177,Kavin,Eastern,Backpack,Accessories,2,11000,3200
+O0178,Arun,Northern,Headphones,Electronics,5,32500,9500
+O0179,Nila,Southern,Headphones,Electronics,10,65000,19000
+O0180,Kavin,Northern,Mouse,Electronics,9,22500,6300
+O0181,Suresh,Southern,Mouse,Electronics,9,22500,6300
+O0182,Priya,Northern,Headphones,Electronics,10,65000,19000
+O0183,Priya,Eastern,Water Bottle,Accessories,1,1800,700
+O0184,Arun,Western,Notebook,Stationery,4,2000,680
+O0185,Ravi,Western,Pen,Stationery,9,900,315
+O0186,Nila,Eastern,T-Shirt,Clothing,4,8800,3200
+O0187,Suresh,Eastern,Notebook,Stationery,8,4000,1360
+O0188,Nila,Northern,Notebook,Stationery,4,2000,680
+O0189,Arun,Eastern,Headphones,Electronics,6,39000,11400
+O0190,Arun,Central,Keyboard,Electronics,4,18000,5200
+O0191,Meena,Southern,Water Bottle,Accessories,7,12600,4900
+O0192,Divya,Northern,Keyboard,Electronics,2,9000,2600
+O0193,Suresh,Northern,Keyboard,Electronics,3,13500,3900
+O0194,Suresh,Eastern,T-Shirt,Clothing,2,4400,1600
+O0195,Meena,Southern,Notebook,Stationery,4,2000,680
+O0196,Nila,Southern,Keyboard,Electronics,4,18000,5200
+O0197,Kavin,Eastern,Mouse,Electronics,11,27500,7700
+O0198,Nila,Central,Water Bottle,Accessories,9,16200,6300
+O0199,Arun,Eastern,T-Shirt,Clothing,2,4400,1600
+O0200,Meena,Northern,Mouse,Electronics,4,10000,2800
+O0201,Kavin,Central,Notebook,Stationery,6,3000,1020
+O0202,Nila,Eastern,Backpack,Accessories,4,22000,6400
+O0203,Arun,Northern,Backpack,Accessories,7,38500,11200
+O0204,Ravi,Western,T-Shirt,Clothing,6,13200,4800
+O0205,Priya,Eastern,Mouse,Electronics,6,15000,4200
+O0206,Arun,Southern,T-Shirt,Clothing,12,26400,9600
+O0207,Nila,Northern,Mouse,Electronics,1,2500,700
+O0208,Ravi,Western,Mouse,Electronics,5,12500,3500
+O0209,Nila,Central,Mouse,Electronics,2,5000,1400
+O0210,Meena,Central,Notebook,Stationery,1,500,170
+O0211,Nila,Southern,Headphones,Electronics,5,32500,9500
+O0212,Suresh,Western,Backpack,Accessories,6,33000,9600
+O0213,Kavin,Central,Water Bottle,Accessories,11,19800,7700
+O0214,Meena,Northern,T-Shirt,Clothing,6,13200,4800
+O0215,Nila,Southern,Water Bottle,Accessories,1,1800,700
+O0216,Priya,Eastern,Mouse,Electronics,3,7500,2100
+O0217,Kavin,Eastern,Notebook,Stationery,8,4000,1360
+O0218,Priya,Eastern,Mouse,Electronics,7,17500,4900
+O0219,Suresh,Central,Backpack,Accessories,10,55000,16000
+O0220,Suresh,Central,Keyboard,Electronics,12,54000,15600
+O0221,Arun,Southern,T-Shirt,Clothing,11,24200,8800
+O0222,Arun,Western,Keyboard,Electronics,12,54000,15600
+O0223,Kavin,Eastern,Pen,Stationery,4,400,140
+O0224,Priya,Eastern,Water Bottle,Accessories,12,21600,8400
+O0225,Nila,Southern,Headphones,Electronics,12,78000,22800
+O0226,Meena,Central,T-Shirt,Clothing,8,17600,6400
+O0227,Suresh,Central,Water Bottle,Accessories,4,7200,2800
+O0228,Divya,Central,Notebook,Stationery,8,4000,1360
+O0229,Suresh,Northern,Notebook,Stationery,10,5000,1700
+O0230,Priya,Central,Water Bottle,Accessories,4,7200,2800
+O0231,Priya,Western,Headphones,Electronics,6,39000,11400
+O0232,Priya,Western,Keyboard,Electronics,1,4500,1300
+O0233,Arun,Western,Water Bottle,Accessories,10,18000,7000
+O0234,Arun,Eastern,Headphones,Electronics,6,39000,11400
+O0235,Arun,Northern,Headphones,Electronics,1,6500,1900
+O0236,Meena,Eastern,Water Bottle,Accessories,10,18000,7000
+O0237,Arun,Eastern,T-Shirt,Clothing,6,13200,4800
+O0238,Meena,Southern,Backpack,Accessories,4,22000,6400
+O0239,Suresh,Southern,T-Shirt,Clothing,4,8800,3200
+O0240,Meena,Southern,Backpack,Accessories,10,55000,16000
+O0241,Arun,Eastern,Water Bottle,Accessories,1,1800,700
+O0242,Priya,Southern,Pen,Stationery,9,900,315
+O0243,Suresh,Northern,Backpack,Accessories,5,27500,8000
+O0244,Divya,Eastern,Backpack,Accessories,3,16500,4800
+O0245,Divya,Northern,Backpack,Accessories,6,33000,9600
+O0246,Kavin,Western,Water Bottle,Accessories,10,18000,7000
+O0247,Meena,Western,Water Bottle,Accessories,1,1800,700
+O0248,Nila,Western,Pen,Stationery,8,800,280
+O0249,Nila,Southern,Water Bottle,Accessories,4,7200,2800
+O0250,Divya,Eastern,Water Bottle,Accessories,4,7200,2800
+O0251,Priya,Eastern,Backpack,Accessories,1,5500,1600
+O0252,Divya,Central,Pen,Stationery,8,800,280
+O0253,Arun,Western,Headphones,Electronics,2,13000,3800
+O0254,Arun,Southern,Pen,Stationery,10,1000,350
+O0255,Meena,Eastern,Notebook,Stationery,11,5500,1870
+O0256,Arun,Western,Backpack,Accessories,1,5500,1600
+O0257,Meena,Central,Notebook,Stationery,12,6000,2040
+O0258,Priya,Western,Headphones,Electronics,10,65000,19000
+O0259,Ravi,Southern,Water Bottle,Accessories,1,1800,700
+O0260,Nila,Southern,Pen,Stationery,2,200,70
+O0261,Arun,Southern,Water Bottle,Accessories,8,14400,5600
+O0262,Nila,Northern,Mouse,Electronics,3,7500,2100
+O0263,Meena,Eastern,T-Shirt,Clothing,12,26400,9600
+O0264,Priya,Western,T-Shirt,Clothing,7,15400,5600
+O0265,Meena,Northern,Headphones,Electronics,7,45500,13300
+O0266,Divya,Western,Mouse,Electronics,6,15000,4200
+O0267,Nila,Eastern,T-Shirt,Clothing,11,24200,8800
+O0268,Kavin,Western,Headphones,Electronics,6,39000,11400
+O0269,Divya,Southern,Backpack,Accessories,11,60500,17600
+O0270,Divya,Central,Water Bottle,Accessories,8,14400,5600
+O0271,Nila,Northern,Notebook,Stationery,5,2500,850
+O0272,Nila,Southern,Pen,Stationery,1,100,35
+O0273,Kavin,Central,Keyboard,Electronics,3,13500,3900
+O0274,Nila,Central,Backpack,Accessories,12,66000,19200
+O0275,Suresh,Central,Backpack,Accessories,4,22000,6400
+O0276,Suresh,Eastern,Backpack,Accessories,5,27500,8000
+O0277,Priya,Northern,Keyboard,Electronics,8,36000,10400
+O0278,Suresh,Northern,Headphones,Electronics,6,39000,11400
+O0279,Nila,Southern,Water Bottle,Accessories,10,18000,7000
+O0280,Meena,Northern,Notebook,Stationery,10,5000,1700
+O0281,Kavin,Central,Backpack,Accessories,10,55000,16000
+O0282,Kavin,Central,T-Shirt,Clothing,8,17600,6400
+O0283,Arun,Western,Keyboard,Electronics,10,45000,13000
+O0284,Meena,Eastern,Keyboard,Electronics,5,22500,6500
+O0285,Suresh,Western,Water Bottle,Accessories,5,9000,3500
+O0286,Priya,Western,Pen,Stationery,8,800,280
+O0287,Ravi,Eastern,Headphones,Electronics,4,26000,7600
+O0288,Nila,Western,Headphones,Electronics,5,32500,9500
+O0289,Suresh,Eastern,T-Shirt,Clothing,2,4400,1600
+O0290,Kavin,Southern,Pen,Stationery,5,500,175
+O0291,Arun,Western,Water Bottle,Accessories,6,10800,4200
+O0292,Ravi,Southern,Headphones,Electronics,9,58500,17100
+O0293,Suresh,Southern,Water Bottle,Accessories,7,12600,4900
+O0294,Nila,Western,Water Bottle,Accessories,10,18000,7000
+O0295,Kavin,Southern,Mouse,Electronics,9,22500,6300
+O0296,Arun,Southern,Keyboard,Electronics,5,22500,6500
+O0297,Priya,Western,Water Bottle,Accessories,10,18000,7000
+O0298,Meena,Southern,Headphones,Electronics,11,71500,20900
+O0299,Ravi,Southern,Pen,Stationery,8,800,280
+O0300,Nila,Western,Headphones,Electronics,2,13000,3800
+O0301,Priya,Eastern,Water Bottle,Accessories,6,10800,4200
+O0302,Priya,Northern,Pen,Stationery,5,500,175
+O0303,Ravi,Western,Backpack,Accessories,6,33000,9600
+O0304,Ravi,Central,Pen,Stationery,8,800,280
+O0305,Suresh,Western,Headphones,Electronics,6,39000,11400
+O0306,Priya,Western,Backpack,Accessories,3,16500,4800
+O0307,Priya,Northern,Headphones,Electronics,9,58500,17100
+O0308,Priya,Central,Water Bottle,Accessories,6,10800,4200
+O0309,Suresh,Southern,Pen,Stationery,3,300,105
+O0310,Ravi,Northern,Pen,Stationery,7,700,245
+O0311,Divya,Western,Pen,Stationery,5,500,175
+O0312,Suresh,Eastern,Pen,Stationery,9,900,315
+O0313,Kavin,Southern,Notebook,Stationery,7,3500,1190
+O0314,Ravi,Central,Pen,Stationery,4,400,140
+O0315,Arun,Eastern,Backpack,Accessories,9,49500,14400
+O0316,Nila,Western,T-Shirt,Clothing,1,2200,800
+O0317,Meena,Eastern,Keyboard,Electronics,5,22500,6500
+O0318,Arun,Central,Pen,Stationery,12,1200,420
+O0319,Ravi,Eastern,Mouse,Electronics,10,25000,7000
+O0320,Kavin,Northern,Headphones,Electronics,12,78000,22800
+O0321,Meena,Western,Notebook,Stationery,8,4000,1360
+O0322,Priya,Northern,T-Shirt,Clothing,10,22000,8000
+O0323,Nila,Southern,Notebook,Stationery,7,3500,1190
+O0324,Divya,Northern,Mouse,Electronics,12,30000,8400
+O0325,Arun,Western,T-Shirt,Clothing,3,6600,2400
+O0326,Ravi,Central,Keyboard,Electronics,3,13500,3900
+O0327,Nila,Eastern,Backpack,Accessories,7,38500,11200
+O0328,Divya,Eastern,Keyboard,Electronics,4,18000,5200
+O0329,Meena,Central,Keyboard,Electronics,5,22500,6500
+O0330,Divya,Central,Notebook,Stationery,6,3000,1020
+O0331,Nila,Western,Pen,Stationery,1,100,35
+O0332,Ravi,Central,Headphones,Electronics,8,52000,15200
+O0333,Ravi,Eastern,Notebook,Stationery,3,1500,510
+O0334,Meena,Southern,Backpack,Accessories,2,11000,3200
+O0335,Divya,Northern,Pen,Stationery,9,900,315
+O0336,Suresh,Northern,Water Bottle,Accessories,12,21600,8400
+O0337,Ravi,Eastern,Backpack,Accessories,10,55000,16000
+O0338,Nila,Western,Mouse,Electronics,5,12500,3500
+O0339,Nila,Western,Notebook,Stationery,6,3000,1020
+O0340,Arun,Western,Keyboard,Electronics,11,49500,14300
+O0341,Arun,Eastern,T-Shirt,Clothing,5,11000,4000
+O0342,Divya,Southern,Backpack,Accessories,11,60500,17600
+O0343,Arun,Central,Mouse,Electronics,8,20000,5600
+O0344,Suresh,Eastern,Pen,Stationery,4,400,140
+O0345,Suresh,Northern,Headphones,Electronics,4,26000,7600
+O0346,Kavin,Central,Headphones,Electronics,10,65000,19000
+O0347,Divya,Northern,Notebook,Stationery,6,3000,1020
+O0348,Arun,Eastern,T-Shirt,Clothing,1,2200,800
+O0349,Nila,Western,Water Bottle,Accessories,11,19800,7700
+O0350,Kavin,Western,Notebook,Stationery,1,500,170
+O0351,Arun,Eastern,Keyboard,Electronics,3,13500,3900
+O0352,Ravi,Western,Keyboard,Electronics,6,27000,7800
+O0353,Meena,Eastern,Notebook,Stationery,5,2500,850
+O0354,Priya,Central,T-Shirt,Clothing,1,2200,800
+O0355,Suresh,Western,Pen,Stationery,3,300,105
+O0356,Suresh,Central,Mouse,Electronics,2,5000,1400
+O0357,Meena,Central,Water Bottle,Accessories,1,1800,700
+O0358,Nila,Eastern,Pen,Stationery,2,200,70
+O0359,Suresh,Southern,Notebook,Stationery,3,1500,510
+O0360,Divya,Eastern,Backpack,Accessories,11,60500,17600
+O0361,Suresh,Southern,Water Bottle,Accessories,2,3600,1400
+O0362,Nila,Northern,Backpack,Accessories,1,5500,1600
+O0363,Ravi,Eastern,Water Bottle,Accessories,12,21600,8400
+O0364,Nila,Central,Mouse,Electronics,9,22500,6300
+O0365,Priya,Central,Pen,Stationery,9,900,315
+O0366,Ravi,Central,Mouse,Electronics,1,2500,700
+O0367,Suresh,Eastern,Pen,Stationery,6,600,210
+O0368,Divya,Central,T-Shirt,Clothing,10,22000,8000
+O0369,Ravi,Northern,Water Bottle,Accessories,8,14400,5600
+O0370,Ravi,Eastern,Mouse,Electronics,12,30000,8400
+O0371,Meena,Northern,T-Shirt,Clothing,9,19800,7200
+O0372,Nila,Northern,Pen,Stationery,8,800,280
+O0373,Priya,Eastern,T-Shirt,Clothing,9,19800,7200
+O0374,Nila,Northern,Headphones,Electronics,12,78000,22800
+O0375,Divya,Central,Headphones,Electronics,4,26000,7600
+O0376,Ravi,Eastern,Notebook,Stationery,7,3500,1190
+O0377,Divya,Western,Backpack,Accessories,11,60500,17600
+O0378,Priya,Southern,T-Shirt,Clothing,12,26400,9600
+O0379,Nila,Western,Backpack,Accessories,11,60500,17600
+O0380,Priya,Eastern,Backpack,Accessories,7,38500,11200
+O0381,Ravi,Western,Notebook,Stationery,7,3500,1190
+O0382,Ravi,Southern,Keyboard,Electronics,3,13500,3900
+O0383,Divya,Eastern,Water Bottle,Accessories,4,7200,2800
+O0384,Kavin,Southern,Pen,Stationery,9,900,315
+O0385,Arun,Eastern,Keyboard,Electronics,2,9000,2600
+O0386,Divya,Eastern,Backpack,Accessories,8,44000,12800
+O0387,Kavin,Eastern,T-Shirt,Clothing,3,6600,2400
+O0388,Ravi,Southern,Backpack,Accessories,12,66000,19200
+O0389,Arun,Central,Mouse,Electronics,6,15000,4200
+O0390,Divya,Central,Pen,Stationery,4,400,140
+O0391,Priya,Northern,Headphones,Electronics,12,78000,22800
+O0392,Suresh,Central,Notebook,Stationery,1,500,170
+O0393,Priya,Southern,T-Shirt,Clothing,8,17600,6400
+O0394,Divya,Central,T-Shirt,Clothing,6,13200,4800
+O0395,Suresh,Eastern,Notebook,Stationery,7,3500,1190
+O0396,Meena,Southern,Mouse,Electronics,1,2500,700
+O0397,Divya,Southern,Keyboard,Electronics,8,36000,10400
+O0398,Meena,Northern,Keyboard,Electronics,10,45000,13000
+O0399,Suresh,Central,Pen,Stationery,10,1000,350
+O0400,Ravi,Western,Keyboard,Electronics,3,13500,3900
+O0401,Meena,Eastern,Notebook,Stationery,4,2000,680
+O0402,Nila,Northern,Headphones,Electronics,8,52000,15200
+O0403,Divya,Western,Keyboard,Electronics,6,27000,7800
+O0404,Suresh,Eastern,Mouse,Electronics,8,20000,5600
+O0405,Ravi,Northern,Pen,Stationery,5,500,175
+O0406,Arun,Eastern,Notebook,Stationery,11,5500,1870
+O0407,Kavin,Eastern,Headphones,Electronics,1,6500,1900
+O0408,Suresh,Eastern,Water Bottle,Accessories,8,14400,5600
+O0409,Divya,Northern,Pen,Stationery,3,300,105
+O0410,Meena,Western,Keyboard,Electronics,7,31500,9100
+O0411,Divya,Central,Water Bottle,Accessories,3,5400,2100
+O0412,Nila,Southern,Pen,Stationery,5,500,175
+O0413,Priya,Eastern,Backpack,Accessories,6,33000,9600
+O0414,Priya,Central,Notebook,Stationery,10,5000,1700
+O0415,Priya,Central,Backpack,Accessories,5,27500,8000
+O0416,Ravi,Central,T-Shirt,Clothing,12,26400,9600
+O0417,Ravi,Southern,Backpack,Accessories,4,22000,6400
+O0418,Suresh,Central,Mouse,Electronics,6,15000,4200
+O0419,Ravi,Central,Headphones,Electronics,8,52000,15200
+O0420,Divya,Western,T-Shirt,Clothing,12,26400,9600
+O0421,Arun,Northern,Mouse,Electronics,3,7500,2100
+O0422,Priya,Central,T-Shirt,Clothing,4,8800,3200
+O0423,Nila,Southern,Headphones,Electronics,5,32500,9500
+O0424,Arun,Western,Headphones,Electronics,5,32500,9500
+O0425,Meena,Central,Keyboard,Electronics,12,54000,15600
+O0426,Priya,Eastern,Keyboard,Electronics,4,18000,5200
+O0427,Meena,Eastern,Backpack,Accessories,9,49500,14400
+O0428,Suresh,Central,Notebook,Stationery,9,4500,1530
+O0429,Suresh,Western,Notebook,Stationery,10,5000,1700
+O0430,Ravi,Central,Headphones,Electronics,3,19500,5700
+O0431,Divya,Southern,T-Shirt,Clothing,7,15400,5600
+O0432,Arun,Southern,Mouse,Electronics,9,22500,6300
+O0433,Ravi,Western,Keyboard,Electronics,10,45000,13000
+O0434,Ravi,Western,T-Shirt,Clothing,9,19800,7200
+O0435,Ravi,Western,Headphones,Electronics,1,6500,1900
+O0436,Divya,Northern,Keyboard,Electronics,1,4500,1300
+O0437,Meena,Western,Keyboard,Electronics,11,49500,14300
+O0438,Priya,Central,Headphones,Electronics,4,26000,7600
+O0439,Priya,Eastern,Water Bottle,Accessories,5,9000,3500
+O0440,Suresh,Eastern,Backpack,Accessories,3,16500,4800
+O0441,Kavin,Central,Headphones,Electronics,2,13000,3800
+O0442,Nila,Northern,Pen,Stationery,2,200,70
+O0443,Divya,Central,Backpack,Accessories,1,5500,1600
+O0444,Arun,Southern,Backpack,Accessories,10,55000,16000
+O0445,Suresh,Eastern,Notebook,Stationery,8,4000,1360
+O0446,Kavin,Southern,Mouse,Electronics,2,5000,1400
+O0447,Nila,Southern,Keyboard,Electronics,5,22500,6500
+O0448,Meena,Southern,Pen,Stationery,6,600,210
+O0449,Ravi,Western,Mouse,Electronics,6,15000,4200
+O0450,Nila,Central,Headphones,Electronics,6,39000,11400
+O0451,Divya,Northern,Mouse,Electronics,6,15000,4200
+O0452,Meena,Central,T-Shirt,Clothing,11,24200,8800
+O0453,Divya,Northern,T-Shirt,Clothing,5,11000,4000
+O0454,Priya,Southern,Headphones,Electronics,6,39000,11400
+O0455,Kavin,Eastern,Mouse,Electronics,6,15000,4200
+O0456,Nila,Central,Keyboard,Electronics,8,36000,10400
+O0457,Arun,Northern,Backpack,Accessories,7,38500,11200
+O0458,Meena,Western,Backpack,Accessories,12,66000,19200
+O0459,Priya,Northern,Backpack,Accessories,10,55000,16000
+O0460,Arun,Eastern,Water Bottle,Accessories,8,14400,5600
+O0461,Meena,Eastern,T-Shirt,Clothing,7,15400,5600
+O0462,Kavin,Western,Mouse,Electronics,5,12500,3500
+O0463,Nila,Central,Mouse,Electronics,12,30000,8400
+O0464,Kavin,Western,Keyboard,Electronics,4,18000,5200
+O0465,Ravi,Eastern,Notebook,Stationery,6,3000,1020
+O0466,Divya,Central,Water Bottle,Accessories,6,10800,4200
+O0467,Ravi,Western,Headphones,Electronics,12,78000,22800
+O0468,Suresh,Eastern,Headphones,Electronics,1,6500,1900
+O0469,Nila,Southern,Water Bottle,Accessories,12,21600,8400
+O0470,Suresh,Western,T-Shirt,Clothing,5,11000,4000
+O0471,Divya,Western,Water Bottle,Accessories,10,18000,7000
+O0472,Kavin,Central,Notebook,Stationery,3,1500,510
+O0473,Ravi,Central,T-Shirt,Clothing,5,11000,4000
+O0474,Priya,Western,Pen,Stationery,6,600,210
+O0475,Kavin,Western,Headphones,Electronics,6,39000,11400
+O0476,Divya,Northern,T-Shirt,Clothing,11,24200,8800
+O0477,Divya,Central,Notebook,Stationery,4,2000,680
+O0478,Nila,Central,Mouse,Electronics,6,15000,4200
+O0479,Meena,Southern,T-Shirt,Clothing,3,6600,2400
+O0480,Nila,Southern,Mouse,Electronics,7,17500,4900
+O0481,Nila,Northern,T-Shirt,Clothing,2,4400,1600
+O0482,Nila,Eastern,Water Bottle,Accessories,2,3600,1400
+O0483,Ravi,Western,Notebook,Stationery,7,3500,1190
+O0484,Meena,Southern,Keyboard,Electronics,10,45000,13000
+O0485,Priya,Northern,Keyboard,Electronics,8,36000,10400
+O0486,Meena,Northern,Notebook,Stationery,8,4000,1360
+O0487,Kavin,Central,Water Bottle,Accessories,6,10800,4200
+O0488,Meena,Eastern,Headphones,Electronics,1,6500,1900
+O0489,Priya,Western,Pen,Stationery,12,1200,420
+O0490,Priya,Southern,Mouse,Electronics,2,5000,1400
+O0491,Divya,Western,Mouse,Electronics,11,27500,7700
+O0492,Meena,Northern,Headphones,Electronics,11,71500,20900
+O0493,Ravi,Eastern,Mouse,Electronics,4,10000,2800
+O0494,Meena,Southern,T-Shirt,Clothing,4,8800,3200
+O0495,Nila,Eastern,T-Shirt,Clothing,6,13200,4800
+O0496,Meena,Northern,Mouse,Electronics,4,10000,2800
+O0497,Priya,Eastern,T-Shirt,Clothing,6,13200,4800
+O0498,Ravi,Northern,Pen,Stationery,7,700,245
+O0499,Divya,Southern,Backpack,Accessories,5,27500,8000
+O0500,Meena,Southern,T-Shirt,Clothing,12,26400,9600
+O0501,Meena,Central,Keyboard,Electronics,12,54000,15600
+O0502,Kavin,Eastern,Notebook,Stationery,6,3000,1020
+O0503,Priya,Eastern,Mouse,Electronics,6,15000,4200
+O0504,Priya,Western,T-Shirt,Clothing,1,2200,800
+O0505,Meena,Eastern,Pen,Stationery,9,900,315
+O0506,Divya,Eastern,Notebook,Stationery,4,2000,680
+O0507,Nila,Eastern,Mouse,Electronics,11,27500,7700
+O0508,Nila,Southern,Headphones,Electronics,9,58500,17100
+O0509,Suresh,Eastern,T-Shirt,Clothing,7,15400,5600
+O0510,Divya,Central,Keyboard,Electronics,11,49500,14300
+O0511,Suresh,Northern,Water Bottle,Accessories,9,16200,6300
+O0512,Meena,Eastern,Mouse,Electronics,7,17500,4900
+O0513,Arun,Central,Keyboard,Electronics,10,45000,13000
+O0514,Priya,Southern,Water Bottle,Accessories,9,16200,6300
+O0515,Priya,Northern,Headphones,Electronics,6,39000,11400
+O0516,Meena,Central,Headphones,Electronics,4,26000,7600
+O0517,Kavin,Northern,Water Bottle,Accessories,10,18000,7000
+O0518,Kavin,Southern,Notebook,Stationery,11,5500,1870
+O0519,Kavin,Central,Headphones,Electronics,7,45500,13300
+O0520,Meena,Western,Water Bottle,Accessories,7,12600,4900
+O0521,Meena,Central,Pen,Stationery,6,600,210
+O0522,Divya,Northern,Backpack,Accessories,9,49500,14400
+O0523,Divya,Eastern,Notebook,Stationery,4,2000,680
+O0524,Ravi,Southern,Pen,Stationery,1,100,35
+O0525,Arun,Central,T-Shirt,Clothing,7,15400,5600
+O0526,Meena,Western,Water Bottle,Accessories,4,7200,2800
+O0527,Priya,Eastern,Headphones,Electronics,1,6500,1900
+O0528,Suresh,Northern,Water Bottle,Accessories,11,19800,7700
+O0529,Kavin,Western,T-Shirt,Clothing,2,4400,1600
+O0530,Suresh,Northern,Keyboard,Electronics,2,9000,2600
+O0531,Priya,Southern,Pen,Stationery,11,1100,385
+O0532,Meena,Southern,Backpack,Accessories,11,60500,17600
+O0533,Nila,Central,Water Bottle,Accessories,3,5400,2100
+O0534,Meena,Northern,Keyboard,Electronics,4,18000,5200
+O0535,Kavin,Southern,Water Bottle,Accessories,11,19800,7700
+O0536,Meena,Northern,Mouse,Electronics,3,7500,2100
+O0537,Divya,Southern,Water Bottle,Accessories,7,12600,4900
+O0538,Nila,Central,T-Shirt,Clothing,4,8800,3200
+O0539,Meena,Southern,Headphones,Electronics,7,45500,13300
+O0540,Ravi,Southern,Notebook,Stationery,1,500,170
+O0541,Suresh,Western,Keyboard,Electronics,1,4500,1300
+O0542,Meena,Northern,Headphones,Electronics,7,45500,13300
+O0543,Divya,Western,Headphones,Electronics,4,26000,7600
+O0544,Divya,Northern,Headphones,Electronics,5,32500,9500
+O0545,Kavin,Eastern,Headphones,Electronics,2,13000,3800
+O0546,Meena,Western,Keyboard,Electronics,6,27000,7800
+O0547,Priya,Southern,Water Bottle,Accessories,5,9000,3500
+O0548,Kavin,Central,Mouse,Electronics,5,12500,3500
+O0549,Nila,Central,Water Bottle,Accessories,8,14400,5600
+O0550,Nila,Southern,Headphones,Electronics,5,32500,9500
+O0551,Priya,Central,Water Bottle,Accessories,3,5400,2100
+O0552,Divya,Western,Water Bottle,Accessories,4,7200,2800
+O0553,Priya,Southern,Keyboard,Electronics,12,54000,15600
+O0554,Meena,Central,T-Shirt,Clothing,6,13200,4800
+O0555,Suresh,Southern,Mouse,Electronics,5,12500,3500
+O0556,Priya,Southern,Headphones,Electronics,11,71500,20900
+O0557,Meena,Southern,Notebook,Stationery,4,2000,680
+O0558,Priya,Southern,Keyboard,Electronics,10,45000,13000
+O0559,Priya,Eastern,Headphones,Electronics,4,26000,7600
+O0560,Divya,Northern,Notebook,Stationery,4,2000,680
+O0561,Meena,Western,Headphones,Electronics,12,78000,22800
+O0562,Meena,Southern,Backpack,Accessories,10,55000,16000
+O0563,Kavin,Southern,Keyboard,Electronics,3,13500,3900
+O0564,Arun,Central,Backpack,Accessories,6,33000,9600
+O0565,Priya,Southern,Headphones,Electronics,8,52000,15200
+O0566,Suresh,Central,Mouse,Electronics,11,27500,7700
+O0567,Nila,Central,Water Bottle,Accessories,5,9000,3500
+O0568,Kavin,Northern,Backpack,Accessories,4,22000,6400
+O0569,Ravi,Northern,Pen,Stationery,5,500,175
+O0570,Divya,Southern,Notebook,Stationery,1,500,170
+O0571,Divya,Northern,Mouse,Electronics,1,2500,700
+O0572,Priya,Eastern,Headphones,Electronics,10,65000,19000
+O0573,Priya,Southern,Notebook,Stationery,1,500,170
+O0574,Arun,Eastern,Notebook,Stationery,5,2500,850
+O0575,Priya,Eastern,Water Bottle,Accessories,9,16200,6300
+O0576,Suresh,Central,T-Shirt,Clothing,2,4400,1600
+O0577,Priya,Western,Notebook,Stationery,3,1500,510
+O0578,Suresh,Eastern,T-Shirt,Clothing,7,15400,5600
+O0579,Arun,Central,Water Bottle,Accessories,2,3600,1400
+O0580,Suresh,Southern,Notebook,Stationery,3,1500,510
+O0581,Meena,Western,Pen,Stationery,5,500,175
+O0582,Kavin,Eastern,Pen,Stationery,5,500,175
+O0583,Ravi,Central,Notebook,Stationery,11,5500,1870
+O0584,Suresh,Western,Pen,Stationery,12,1200,420
+O0585,Meena,Northern,T-Shirt,Clothing,10,22000,8000
+O0586,Suresh,Northern,Notebook,Stationery,3,1500,510
+O0587,Priya,Northern,Water Bottle,Accessories,5,9000,3500
+O0588,Nila,Eastern,Headphones,Electronics,7,45500,13300
+O0589,Divya,Southern,Keyboard,Electronics,4,18000,5200
+O0590,Meena,Eastern,Keyboard,Electronics,3,13500,3900
+O0591,Ravi,Southern,Headphones,Electronics,12,78000,22800
+O0592,Divya,Eastern,Notebook,Stationery,9,4500,1530
+O0593,Kavin,Eastern,Notebook,Stationery,4,2000,680
+O0594,Meena,Western,T-Shirt,Clothing,1,2200,800
+O0595,Divya,Eastern,Notebook,Stationery,11,5500,1870
+O0596,Divya,Northern,Keyboard,Electronics,1,4500,1300
+O0597,Meena,Western,Water Bottle,Accessories,7,12600,4900
+O0598,Arun,Western,Notebook,Stationery,7,3500,1190
+O0599,Kavin,Northern,Notebook,Stationery,2,1000,340
+O0600,Nila,Central,Keyboard,Electronics,9,40500,11700
+O0601,Ravi,Southern,Water Bottle,Accessories,8,14400,5600
+O0602,Ravi,Northern,Water Bottle,Accessories,12,21600,8400
+O0603,Kavin,Northern,Headphones,Electronics,6,39000,11400
+O0604,Suresh,Central,Backpack,Accessories,10,55000,16000
+O0605,Suresh,Western,T-Shirt,Clothing,12,26400,9600
+O0606,Nila,Southern,Notebook,Stationery,1,500,170
+O0607,Arun,Western,Headphones,Electronics,8,52000,15200
+O0608,Ravi,Southern,Notebook,Stationery,12,6000,2040
+O0609,Ravi,Eastern,Notebook,Stationery,4,2000,680
+O0610,Arun,Southern,Backpack,Accessories,7,38500,11200
+O0611,Arun,Northern,Pen,Stationery,10,1000,350
+O0612,Priya,Northern,Water Bottle,Accessories,6,10800,4200
+O0613,Divya,Eastern,Headphones,Electronics,1,6500,1900
+O0614,Nila,Northern,Notebook,Stationery,1,500,170
+O0615,Nila,Central,Water Bottle,Accessories,12,21600,8400
+O0616,Divya,Southern,Pen,Stationery,1,100,35
+O0617,Meena,Southern,Water Bottle,Accessories,8,14400,5600
+O0618,Divya,Northern,Mouse,Electronics,8,20000,5600
+O0619,Meena,Eastern,Keyboard,Electronics,2,9000,2600
+O0620,Suresh,Eastern,Headphones,Electronics,4,26000,7600
+O0621,Ravi,Southern,Water Bottle,Accessories,1,1800,700
+O0622,Arun,Central,Keyboard,Electronics,2,9000,2600
+O0623,Priya,Western,Pen,Stationery,9,900,315
+O0624,Nila,Northern,Mouse,Electronics,5,12500,3500
+O0625,Nila,Northern,T-Shirt,Clothing,1,2200,800
+O0626,Suresh,Central,Keyboard,Electronics,3,13500,3900
+O0627,Divya,Western,Pen,Stationery,12,1200,420
+O0628,Arun,Southern,Water Bottle,Accessories,6,10800,4200
+O0629,Ravi,Central,Notebook,Stationery,7,3500,1190
+O0630,Suresh,Central,Backpack,Accessories,11,60500,17600
+O0631,Divya,Eastern,T-Shirt,Clothing,12,26400,9600
+O0632,Arun,Southern,Keyboard,Electronics,2,9000,2600
+O0633,Ravi,Western,Mouse,Electronics,1,2500,700
+O0634,Kavin,Northern,Notebook,Stationery,5,2500,850
+O0635,Nila,Northern,Backpack,Accessories,11,60500,17600
+O0636,Priya,Eastern,Backpack,Accessories,5,27500,8000
+O0637,Priya,Western,T-Shirt,Clothing,1,2200,800
+O0638,Arun,Western,Mouse,Electronics,3,7500,2100
+O0639,Nila,Northern,Notebook,Stationery,7,3500,1190
+O0640,Suresh,Eastern,Headphones,Electronics,7,45500,13300
+O0641,Kavin,Northern,Keyboard,Electronics,9,40500,11700
+O0642,Suresh,Southern,Keyboard,Electronics,4,18000,5200
+O0643,Meena,Southern,Backpack,Accessories,5,27500,8000
+O0644,Ravi,Northern,Mouse,Electronics,8,20000,5600
+O0645,Kavin,Eastern,Notebook,Stationery,2,1000,340
+O0646,Suresh,Central,T-Shirt,Clothing,2,4400,1600
+O0647,Kavin,Southern,T-Shirt,Clothing,4,8800,3200
+O0648,Kavin,Southern,Keyboard,Electronics,6,27000,7800
+O0649,Arun,Central,Notebook,Stationery,12,6000,2040
+O0650,Suresh,Southern,T-Shirt,Clothing,11,24200,8800
+O0651,Kavin,Central,Headphones,Electronics,5,32500,9500
+O0652,Suresh,Northern,Notebook,Stationery,3,1500,510
+O0653,Nila,Western,Backpack,Accessories,12,66000,19200
+O0654,Nila,Southern,Notebook,Stationery,10,5000,1700
+O0655,Divya,Eastern,Headphones,Electronics,1,6500,1900
+O0656,Kavin,Central,Headphones,Electronics,12,78000,22800
+O0657,Divya,Central,Water Bottle,Accessories,3,5400,2100
+O0658,Priya,Central,Notebook,Stationery,11,5500,1870
+O0659,Arun,Central,T-Shirt,Clothing,7,15400,5600
+O0660,Priya,Northern,Mouse,Electronics,7,17500,4900
+O0661,Divya,Eastern,Backpack,Accessories,6,33000,9600
+O0662,Arun,Northern,Notebook,Stationery,10,5000,1700
+O0663,Divya,Northern,Headphones,Electronics,8,52000,15200
+O0664,Nila,Northern,Water Bottle,Accessories,7,12600,4900
+O0665,Priya,Southern,Notebook,Stationery,8,4000,1360
+O0666,Ravi,Northern,Water Bottle,Accessories,5,9000,3500
+O0667,Divya,Eastern,T-Shirt,Clothing,5,11000,4000
+O0668,Priya,Northern,Mouse,Electronics,10,25000,7000
+O0669,Suresh,Western,Backpack,Accessories,4,22000,6400
+O0670,Priya,Central,Keyboard,Electronics,1,4500,1300
+O0671,Divya,Western,Keyboard,Electronics,3,13500,3900
+O0672,Suresh,Central,Pen,Stationery,3,300,105
+O0673,Priya,Southern,Keyboard,Electronics,6,27000,7800
+O0674,Nila,Central,T-Shirt,Clothing,6,13200,4800
+O0675,Kavin,Eastern,Water Bottle,Accessories,8,14400,5600
+O0676,Ravi,Southern,Backpack,Accessories,2,11000,3200
+O0677,Suresh,Northern,T-Shirt,Clothing,12,26400,9600
+O0678,Arun,Western,Backpack,Accessories,11,60500,17600
+O0679,Ravi,Northern,T-Shirt,Clothing,8,17600,6400
+O0680,Kavin,Northern,Backpack,Accessories,9,49500,14400
+O0681,Ravi,Central,Water Bottle,Accessories,5,9000,3500
+O0682,Priya,Western,Keyboard,Electronics,1,4500,1300
+O0683,Suresh,Central,Water Bottle,Accessories,1,1800,700
+O0684,Meena,Central,T-Shirt,Clothing,11,24200,8800
+O0685,Nila,Northern,Mouse,Electronics,5,12500,3500
+O0686,Priya,Northern,Keyboard,Electronics,2,9000,2600
+O0687,Priya,Northern,T-Shirt,Clothing,6,13200,4800
+O0688,Ravi,Northern,Water Bottle,Accessories,1,1800,700
+O0689,Divya,Eastern,Headphones,Electronics,5,32500,9500
+O0690,Priya,Western,Notebook,Stationery,10,5000,1700
+O0691,Priya,Northern,Pen,Stationery,5,500,175
+O0692,Arun,Southern,Keyboard,Electronics,11,49500,14300
+O0693,Kavin,Western,Mouse,Electronics,11,27500,7700
+O0694,Arun,Eastern,Mouse,Electronics,11,27500,7700
+O0695,Divya,Western,Headphones,Electronics,6,39000,11400
+O0696,Ravi,Southern,Headphones,Electronics,6,39000,11400
+O0697,Suresh,Western,T-Shirt,Clothing,4,8800,3200
+O0698,Ravi,Southern,Headphones,Electronics,9,58500,17100
+O0699,Priya,Eastern,Water Bottle,Accessories,9,16200,6300
+O0700,Priya,Central,Keyboard,Electronics,12,54000,15600
+O0701,Divya,Eastern,Mouse,Electronics,12,30000,8400
+O0702,Arun,Southern,Notebook,Stationery,8,4000,1360
+O0703,Ravi,Northern,Backpack,Accessories,5,27500,8000
+O0704,Suresh,Western,Mouse,Electronics,1,2500,700
+O0705,Priya,Central,T-Shirt,Clothing,1,2200,800
+O0706,Arun,Central,Pen,Stationery,7,700,245
+O0707,Suresh,Northern,Pen,Stationery,12,1200,420
+O0708,Suresh,Western,Water Bottle,Accessories,5,9000,3500
+O0709,Kavin,Central,Water Bottle,Accessories,10,18000,7000
+O0710,Kavin,Western,Notebook,Stationery,2,1000,340
+O0711,Meena,Northern,Backpack,Accessories,5,27500,8000
+O0712,Kavin,Southern,Keyboard,Electronics,3,13500,3900
+O0713,Priya,Northern,Notebook,Stationery,2,1000,340
+O0714,Meena,Western,Keyboard,Electronics,6,27000,7800
+O0715,Priya,Central,T-Shirt,Clothing,1,2200,800
+O0716,Suresh,Northern,Backpack,Accessories,9,49500,14400
+O0717,Divya,Southern,Pen,Stationery,7,700,245
+O0718,Meena,Eastern,Notebook,Stationery,3,1500,510
+O0719,Priya,Central,Notebook,Stationery,11,5500,1870
+O0720,Priya,Eastern,Pen,Stationery,5,500,175
+O0721,Nila,Northern,T-Shirt,Clothing,9,19800,7200
+O0722,Arun,Eastern,Backpack,Accessories,5,27500,8000
+O0723,Nila,Western,Backpack,Accessories,10,55000,16000
+O0724,Kavin,Central,Keyboard,Electronics,10,45000,13000
+O0725,Nila,Eastern,Pen,Stationery,9,900,315
+O0726,Meena,Western,T-Shirt,Clothing,8,17600,6400
+O0727,Priya,Southern,Keyboard,Electronics,2,9000,2600
+O0728,Nila,Northern,T-Shirt,Clothing,7,15400,5600
+O0729,Kavin,Northern,Keyboard,Electronics,11,49500,14300
+O0730,Priya,Northern,T-Shirt,Clothing,3,6600,2400
+O0731,Kavin,Western,Notebook,Stationery,7,3500,1190
+O0732,Ravi,Central,Water Bottle,Accessories,8,14400,5600
+O0733,Kavin,Northern,Headphones,Electronics,7,45500,13300
+O0734,Ravi,Northern,Notebook,Stationery,10,5000,1700
+O0735,Suresh,Southern,Notebook,Stationery,1,500,170
+O0736,Divya,Western,Keyboard,Electronics,9,40500,11700
+O0737,Nila,Eastern,Water Bottle,Accessories,4,7200,2800
+O0738,Kavin,Eastern,Backpack,Accessories,2,11000,3200
+O0739,Kavin,Eastern,Backpack,Accessories,2,11000,3200
+O0740,Kavin,Central,Mouse,Electronics,3,7500,2100
+O0741,Arun,Central,Backpack,Accessories,1,5500,1600
+O0742,Arun,Western,Water Bottle,Accessories,6,10800,4200
+O0743,Meena,Central,Water Bottle,Accessories,8,14400,5600
+O0744,Priya,Eastern,Mouse,Electronics,9,22500,6300
+O0745,Ravi,Eastern,Headphones,Electronics,4,26000,7600
+O0746,Kavin,Southern,Headphones,Electronics,8,52000,15200
+O0747,Meena,Eastern,Notebook,Stationery,7,3500,1190
+O0748,Priya,Southern,Water Bottle,Accessories,1,1800,700
+O0749,Kavin,Eastern,T-Shirt,Clothing,6,13200,4800
+O0750,Kavin,Southern,Keyboard,Electronics,5,22500,6500
+O0751,Kavin,Central,Pen,Stationery,1,100,35
+O0752,Divya,Western,Backpack,Accessories,1,5500,1600
+O0753,Ravi,Western,T-Shirt,Clothing,8,17600,6400
+O0754,Priya,Southern,Headphones,Electronics,4,26000,7600
+O0755,Arun,Southern,Water Bottle,Accessories,5,9000,3500
+O0756,Kavin,Eastern,Pen,Stationery,11,1100,385
+O0757,Ravi,Eastern,Keyboard,Electronics,8,36000,10400
+O0758,Suresh,Western,Water Bottle,Accessories,4,7200,2800
+O0759,Ravi,Western,Backpack,Accessories,12,66000,19200
+O0760,Nila,Southern,Keyboard,Electronics,3,13500,3900
+O0761,Suresh,Eastern,Backpack,Accessories,4,22000,6400
+O0762,Divya,Central,Mouse,Electronics,4,10000,2800
+O0763,Arun,Southern,Headphones,Electronics,5,32500,9500
+O0764,Arun,Central,Notebook,Stationery,4,2000,680
+O0765,Arun,Northern,Water Bottle,Accessories,1,1800,700
+O0766,Ravi,Southern,Headphones,Electronics,2,13000,3800
+O0767,Nila,Southern,Notebook,Stationery,2,1000,340
+O0768,Ravi,Eastern,Notebook,Stationery,12,6000,2040
+O0769,Nila,Central,Pen,Stationery,4,400,140
+O0770,Divya,Western,Backpack,Accessories,12,66000,19200
+O0771,Divya,Northern,Mouse,Electronics,5,12500,3500
+O0772,Ravi,Western,T-Shirt,Clothing,2,4400,1600
+O0773,Suresh,Western,T-Shirt,Clothing,11,24200,8800
+O0774,Suresh,Southern,Water Bottle,Accessories,3,5400,2100
+O0775,Priya,Southern,Backpack,Accessories,2,11000,3200
+O0776,Arun,Southern,Keyboard,Electronics,5,22500,6500
+O0777,Divya,Northern,Backpack,Accessories,8,44000,12800
+O0778,Suresh,Western,T-Shirt,Clothing,11,24200,8800
+O0779,Divya,Western,T-Shirt,Clothing,6,13200,4800
+O0780,Divya,Central,T-Shirt,Clothing,7,15400,5600
+O0781,Priya,Central,Keyboard,Electronics,5,22500,6500
+O0782,Divya,Southern,T-Shirt,Clothing,2,4400,1600
+O0783,Ravi,Southern,Keyboard,Electronics,4,18000,5200
+O0784,Priya,Western,Pen,Stationery,5,500,175
+O0785,Suresh,Southern,Mouse,Electronics,7,17500,4900
+O0786,Suresh,Northern,Keyboard,Electronics,2,9000,2600
+O0787,Divya,Southern,Backpack,Accessories,6,33000,9600
+O0788,Nila,Central,Backpack,Accessories,10,55000,16000
+O0789,Nila,Western,Pen,Stationery,5,500,175
+O0790,Ravi,Eastern,Notebook,Stationery,8,4000,1360
+O0791,Ravi,Northern,Mouse,Electronics,5,12500,3500
+O0792,Suresh,Southern,Pen,Stationery,1,100,35
+O0793,Arun,Northern,T-Shirt,Clothing,5,11000,4000
+O0794,Priya,Southern,Mouse,Electronics,2,5000,1400
+O0795,Arun,Central,Notebook,Stationery,5,2500,850
+O0796,Ravi,Southern,T-Shirt,Clothing,4,8800,3200
+O0797,Ravi,Southern,Backpack,Accessories,8,44000,12800
+O0798,Nila,Eastern,Pen,Stationery,8,800,280
+O0799,Ravi,Central,Water Bottle,Accessories,11,19800,7700
+O0800,Ravi,Western,Backpack,Accessories,1,5500,1600
+O0801,Suresh,Eastern,Water Bottle,Accessories,8,14400,5600
+O0802,Ravi,Central,T-Shirt,Clothing,1,2200,800
+O0803,Kavin,Central,Mouse,Electronics,11,27500,7700
+O0804,Suresh,Southern,Mouse,Electronics,8,20000,5600
+O0805,Ravi,Central,Notebook,Stationery,1,500,170
+O0806,Suresh,Northern,T-Shirt,Clothing,3,6600,2400
+O0807,Nila,Western,Headphones,Electronics,2,13000,3800
+O0808,Priya,Eastern,Notebook,Stationery,10,5000,1700
+O0809,Ravi,Northern,Mouse,Electronics,3,7500,2100
+O0810,Divya,Central,Backpack,Accessories,2,11000,3200
+O0811,Kavin,Central,T-Shirt,Clothing,2,4400,1600
+O0812,Suresh,Northern,Keyboard,Electronics,4,18000,5200
+O0813,Divya,Central,Keyboard,Electronics,6,27000,7800
+O0814,Arun,Western,Notebook,Stationery,11,5500,1870
+O0815,Suresh,Central,Headphones,Electronics,9,58500,17100
+O0816,Arun,Eastern,Notebook,Stationery,12,6000,2040
+O0817,Arun,Central,Backpack,Accessories,5,27500,8000
+O0818,Arun,Eastern,Mouse,Electronics,1,2500,700
+O0819,Ravi,Western,Notebook,Stationery,5,2500,850
+O0820,Nila,Eastern,Backpack,Accessories,3,16500,4800
+O0821,Meena,Southern,Notebook,Stationery,5,2500,850
+O0822,Divya,Western,Water Bottle,Accessories,3,5400,2100
+O0823,Suresh,Central,T-Shirt,Clothing,1,2200,800
+O0824,Kavin,Northern,Mouse,Electronics,7,17500,4900
+O0825,Arun,Western,Notebook,Stationery,1,500,170
+O0826,Divya,Central,T-Shirt,Clothing,11,24200,8800
+O0827,Suresh,Central,Water Bottle,Accessories,11,19800,7700
+O0828,Priya,Northern,Mouse,Electronics,6,15000,4200
+O0829,Nila,Northern,Keyboard,Electronics,11,49500,14300
+O0830,Priya,Northern,Notebook,Stationery,7,3500,1190
+O0831,Suresh,Southern,Notebook,Stationery,12,6000,2040
+O0832,Nila,Northern,Notebook,Stationery,12,6000,2040
+O0833,Ravi,Northern,Keyboard,Electronics,9,40500,11700
+O0834,Kavin,Northern,T-Shirt,Clothing,1,2200,800
+O0835,Nila,Central,Notebook,Stationery,8,4000,1360
+O0836,Nila,Central,Water Bottle,Accessories,8,14400,5600
+O0837,Suresh,Southern,Headphones,Electronics,4,26000,7600
+O0838,Divya,Western,Notebook,Stationery,12,6000,2040
+O0839,Ravi,Eastern,Headphones,Electronics,7,45500,13300
+O0840,Divya,Eastern,Pen,Stationery,8,800,280
+O0841,Ravi,Southern,Backpack,Accessories,9,49500,14400
+O0842,Ravi,Western,T-Shirt,Clothing,10,22000,8000
+O0843,Meena,Central,Water Bottle,Accessories,2,3600,1400
+O0844,Divya,Northern,Water Bottle,Accessories,3,5400,2100
+O0845,Nila,Western,Pen,Stationery,1,100,35
+O0846,Priya,Northern,Headphones,Electronics,2,13000,3800
+O0847,Meena,Southern,Backpack,Accessories,8,44000,12800
+O0848,Arun,Central,Pen,Stationery,7,700,245
+O0849,Kavin,Northern,Backpack,Accessories,7,38500,11200
+O0850,Ravi,Central,Pen,Stationery,1,100,35
+O0851,Kavin,Western,Pen,Stationery,2,200,70
+O0852,Priya,Southern,Water Bottle,Accessories,11,19800,7700
+O0853,Nila,Eastern,Headphones,Electronics,2,13000,3800
+O0854,Nila,Northern,Water Bottle,Accessories,12,21600,8400
+O0855,Priya,Northern,Water Bottle,Accessories,4,7200,2800
+O0856,Kavin,Northern,Headphones,Electronics,9,58500,17100
+O0857,Ravi,Northern,Notebook,Stationery,8,4000,1360
+O0858,Ravi,Eastern,Pen,Stationery,8,800,280
+O0859,Nila,Southern,T-Shirt,Clothing,6,13200,4800
+O0860,Divya,Eastern,Keyboard,Electronics,1,4500,1300
+O0861,Ravi,Central,Keyboard,Electronics,10,45000,13000
+O0862,Arun,Northern,Water Bottle,Accessories,6,10800,4200
+O0863,Meena,Eastern,Headphones,Electronics,7,45500,13300
+O0864,Arun,Central,Notebook,Stationery,9,4500,1530
+O0865,Divya,Southern,Keyboard,Electronics,4,18000,5200
+O0866,Divya,Northern,Headphones,Electronics,12,78000,22800
+O0867,Priya,Northern,Pen,Stationery,5,500,175
+O0868,Suresh,Northern,Pen,Stationery,5,500,175
+O0869,Kavin,Northern,Notebook,Stationery,10,5000,1700
+O0870,Divya,Eastern,Headphones,Electronics,12,78000,22800
+O0871,Nila,Western,Backpack,Accessories,7,38500,11200
+O0872,Ravi,Southern,Backpack,Accessories,6,33000,9600
+O0873,Priya,Western,T-Shirt,Clothing,4,8800,3200
+O0874,Suresh,Northern,Keyboard,Electronics,11,49500,14300
+O0875,Divya,Central,Keyboard,Electronics,12,54000,15600
+O0876,Meena,Northern,Mouse,Electronics,1,2500,700
+O0877,Arun,Western,T-Shirt,Clothing,11,24200,8800
+O0878,Ravi,Northern,Backpack,Accessories,7,38500,11200
+O0879,Suresh,Western,Pen,Stationery,6,600,210
+O0880,Nila,Central,Notebook,Stationery,5,2500,850
+O0881,Arun,Western,T-Shirt,Clothing,1,2200,800
+O0882,Arun,Northern,Mouse,Electronics,2,5000,1400
+O0883,Ravi,Southern,Notebook,Stationery,7,3500,1190
+O0884,Meena,Western,Keyboard,Electronics,6,27000,7800
+O0885,Priya,Southern,Backpack,Accessories,7,38500,11200
+O0886,Meena,Southern,Pen,Stationery,3,300,105
+O0887,Arun,Northern,Water Bottle,Accessories,5,9000,3500
+O0888,Kavin,Southern,T-Shirt,Clothing,8,17600,6400
+O0889,Kavin,Central,Backpack,Accessories,1,5500,1600
+O0890,Nila,Southern,Water Bottle,Accessories,6,10800,4200
+O0891,Suresh,Southern,Pen,Stationery,5,500,175
+O0892,Divya,Northern,Water Bottle,Accessories,4,7200,2800
+O0893,Ravi,Northern,Backpack,Accessories,5,27500,8000
+O0894,Nila,Southern,Headphones,Electronics,11,71500,20900
+O0895,Kavin,Central,Keyboard,Electronics,10,45000,13000
+O0896,Priya,Eastern,Backpack,Accessories,2,11000,3200
+O0897,Divya,Northern,Mouse,Electronics,5,12500,3500
+O0898,Ravi,Central,Headphones,Electronics,8,52000,15200
+O0899,Arun,Northern,Pen,Stationery,12,1200,420
+O0900,Priya,Eastern,Mouse,Electronics,7,17500,4900
+O0901,Kavin,Central,Notebook,Stationery,9,4500,1530
+O0902,Arun,Southern,Mouse,Electronics,6,15000,4200
+O0903,Nila,Northern,Headphones,Electronics,6,39000,11400
+O0904,Meena,Eastern,Water Bottle,Accessories,7,12600,4900
+O0905,Priya,Eastern,T-Shirt,Clothing,6,13200,4800
+O0906,Divya,Eastern,Backpack,Accessories,7,38500,11200
+O0907,Kavin,Northern,Pen,Stationery,5,500,175
+O0908,Divya,Southern,Water Bottle,Accessories,1,1800,700
+O0909,Nila,Western,Water Bottle,Accessories,5,9000,3500
+O0910,Arun,Eastern,Keyboard,Electronics,8,36000,10400
+O0911,Meena,Northern,Keyboard,Electronics,3,13500,3900
+O0912,Nila,Southern,Headphones,Electronics,6,39000,11400
+O0913,Nila,Southern,Notebook,Stationery,9,4500,1530
+O0914,Arun,Central,Mouse,Electronics,5,12500,3500
+O0915,Priya,Central,Headphones,Electronics,6,39000,11400
+O0916,Meena,Central,Headphones,Electronics,3,19500,5700
+O0917,Kavin,Western,Keyboard,Electronics,11,49500,14300
+O0918,Priya,Western,Mouse,Electronics,7,17500,4900
+O0919,Arun,Eastern,Water Bottle,Accessories,11,19800,7700
+O0920,Divya,Northern,Notebook,Stationery,9,4500,1530
+O0921,Arun,Northern,Mouse,Electronics,2,5000,1400
+O0922,Meena,Eastern,Mouse,Electronics,6,15000,4200
+O0923,Ravi,Eastern,Keyboard,Electronics,3,13500,3900
+O0924,Kavin,Northern,Mouse,Electronics,4,10000,2800
+O0925,Priya,Western,Mouse,Electronics,4,10000,2800
+O0926,Kavin,Eastern,T-Shirt,Clothing,7,15400,5600
+O0927,Suresh,Central,Notebook,Stationery,5,2500,850
+O0928,Suresh,Central,Headphones,Electronics,8,52000,15200
+O0929,Meena,Southern,Notebook,Stationery,12,6000,2040
+O0930,Divya,Central,Pen,Stationery,2,200,70
+O0931,Nila,Central,Pen,Stationery,1,100,35
+O0932,Arun,Central,Backpack,Accessories,6,33000,9600
+O0933,Nila,Southern,Pen,Stationery,2,200,70
+O0934,Divya,Northern,Keyboard,Electronics,6,27000,7800
+O0935,Suresh,Eastern,Notebook,Stationery,4,2000,680
+O0936,Arun,Western,Water Bottle,Accessories,7,12600,4900
+O0937,Ravi,Southern,Keyboard,Electronics,2,9000,2600
+O0938,Nila,Central,Pen,Stationery,3,300,105
+O0939,Divya,Northern,Notebook,Stationery,5,2500,850
+O0940,Nila,Western,Headphones,Electronics,2,13000,3800
+O0941,Divya,Central,T-Shirt,Clothing,2,4400,1600
+O0942,Nila,Central,Backpack,Accessories,6,33000,9600
+O0943,Nila,Southern,Headphones,Electronics,8,52000,15200
+O0944,Kavin,Southern,Water Bottle,Accessories,4,7200,2800
+O0945,Nila,Southern,Keyboard,Electronics,7,31500,9100
+O0946,Arun,Southern,Keyboard,Electronics,8,36000,10400
+O0947,Nila,Northern,T-Shirt,Clothing,6,13200,4800
+O0948,Ravi,Southern,Notebook,Stationery,2,1000,340
+O0949,Priya,Northern,Notebook,Stationery,5,2500,850
+O0950,Priya,Southern,Mouse,Electronics,6,15000,4200
+O0951,Divya,Northern,Backpack,Accessories,4,22000,6400
+O0952,Divya,Central,Mouse,Electronics,12,30000,8400
+O0953,Priya,Central,Pen,Stationery,4,400,140
+O0954,Priya,Eastern,Pen,Stationery,1,100,35
+O0955,Meena,Western,Headphones,Electronics,5,32500,9500
+O0956,Nila,Northern,Backpack,Accessories,2,11000,3200
+O0957,Suresh,Central,Headphones,Electronics,10,65000,19000
+O0958,Suresh,Northern,Backpack,Accessories,3,16500,4800
+O0959,Divya,Western,Mouse,Electronics,8,20000,5600
+O0960,Suresh,Southern,Notebook,Stationery,6,3000,1020
+O0961,Priya,Northern,Backpack,Accessories,3,16500,4800
+O0962,Ravi,Southern,Pen,Stationery,5,500,175
+O0963,Kavin,Eastern,Mouse,Electronics,9,22500,6300
+O0964,Kavin,Central,Water Bottle,Accessories,5,9000,3500
+O0965,Arun,Northern,Mouse,Electronics,8,20000,5600
+O0966,Divya,Northern,Pen,Stationery,10,1000,350
+O0967,Nila,Southern,Backpack,Accessories,7,38500,11200
+O0968,Arun,Southern,T-Shirt,Clothing,6,13200,4800
+O0969,Arun,Western,Notebook,Stationery,2,1000,340
+O0970,Nila,Northern,T-Shirt,Clothing,5,11000,4000
+O0971,Ravi,Southern,Pen,Stationery,10,1000,350
+O0972,Priya,Central,Backpack,Accessories,6,33000,9600
+O0973,Ravi,Central,Notebook,Stationery,1,500,170
+O0974,Ravi,Central,Notebook,Stationery,11,5500,1870
+O0975,Meena,Southern,T-Shirt,Clothing,2,4400,1600
+O0976,Kavin,Eastern,T-Shirt,Clothing,5,11000,4000
+O0977,Kavin,Northern,Headphones,Electronics,3,19500,5700
+O0978,Ravi,Eastern,Headphones,Electronics,10,65000,19000
+O0979,Kavin,Western,T-Shirt,Clothing,10,22000,8000
+O0980,Ravi,Eastern,Headphones,Electronics,12,78000,22800
+O0981,Kavin,Southern,Pen,Stationery,5,500,175
+O0982,Kavin,Western,Mouse,Electronics,12,30000,8400
+O0983,Priya,Southern,Backpack,Accessories,8,44000,12800
+O0984,Suresh,Northern,T-Shirt,Clothing,7,15400,5600
+O0985,Priya,Eastern,Keyboard,Electronics,4,18000,5200
+O0986,Nila,Southern,Pen,Stationery,11,1100,385
+O0987,Ravi,Central,Backpack,Accessories,1,5500,1600
+O0988,Kavin,Northern,Pen,Stationery,5,500,175
+O0989,Suresh,Southern,Water Bottle,Accessories,4,7200,2800
+O0990,Divya,Northern,Mouse,Electronics,5,12500,3500
+O0991,Kavin,Eastern,Keyboard,Electronics,3,13500,3900
+O0992,Nila,Central,Notebook,Stationery,5,2500,850
+O0993,Meena,Southern,Keyboard,Electronics,6,27000,7800
+O0994,Divya,Northern,Backpack,Accessories,9,49500,14400
+O0995,Nila,Eastern,Water Bottle,Accessories,10,18000,7000
+O0996,Kavin,Eastern,Notebook,Stationery,6,3000,1020
+O0997,Nila,Eastern,Pen,Stationery,8,800,280
+O0998,Ravi,Southern,Notebook,Stationery,8,4000,1360
+O0999,Ravi,Central,Pen,Stationery,7,700,245
+O1000,Kavin,Western,T-Shirt,Clothing,5,11000,4000
+O1001,Suresh,Northern,Notebook,Stationery,8,4000,1360
+O1002,Meena,Western,Notebook,Stationery,1,500,170
+O1003,Kavin,Central,Notebook,Stationery,8,4000,1360
+O1004,Divya,Southern,Headphones,Electronics,8,52000,15200
+O1005,Nila,Southern,T-Shirt,Clothing,10,22000,8000
+O1006,Arun,Central,Pen,Stationery,5,500,175
+O1007,Kavin,Northern,Backpack,Accessories,2,11000,3200
+O1008,Kavin,Central,Notebook,Stationery,2,1000,340
+O1009,Divya,Southern,Backpack,Accessories,11,60500,17600
+O1010,Suresh,Eastern,Backpack,Accessories,12,66000,19200
+O1011,Divya,Southern,Keyboard,Electronics,9,40500,11700
+O1012,Kavin,Central,Keyboard,Electronics,3,13500,3900
+O1013,Kavin,Central,Water Bottle,Accessories,3,5400,2100
+O1014,Nila,Western,Headphones,Electronics,8,52000,15200
+O1015,Suresh,Central,T-Shirt,Clothing,2,4400,1600
+O1016,Nila,Eastern,Keyboard,Electronics,2,9000,2600
+O1017,Kavin,Eastern,Backpack,Accessories,7,38500,11200
+O1018,Divya,Western,Pen,Stationery,1,100,35
+O1019,Divya,Western,T-Shirt,Clothing,7,15400,5600
+O1020,Kavin,Western,Water Bottle,Accessories,4,7200,2800
+O1021,Meena,Eastern,Pen,Stationery,2,200,70
+O1022,Arun,Central,Notebook,Stationery,4,2000,680
+O1023,Nila,Western,Pen,Stationery,11,1100,385
+O1024,Nila,Eastern,Keyboard,Electronics,6,27000,7800
+O1025,Priya,Western,Keyboard,Electronics,6,27000,7800
+O1026,Priya,Northern,Backpack,Accessories,5,27500,8000
+O1027,Arun,Central,Notebook,Stationery,12,6000,2040
+O1028,Nila,Central,T-Shirt,Clothing,1,2200,800
+O1029,Ravi,Northern,Mouse,Electronics,11,27500,7700
+O1030,Divya,Northern,Mouse,Electronics,8,20000,5600
+O1031,Suresh,Southern,Backpack,Accessories,9,49500,14400
+O1032,Priya,Central,Pen,Stationery,7,700,245
+O1033,Arun,Northern,T-Shirt,Clothing,9,19800,7200
+O1034,Priya,Central,T-Shirt,Clothing,7,15400,5600
+O1035,Meena,Western,Pen,Stationery,2,200,70
+O1036,Kavin,Central,Headphones,Electronics,6,39000,11400
+O1037,Divya,Western,Pen,Stationery,8,800,280
+O1038,Meena,Eastern,Backpack,Accessories,6,33000,9600
+O1039,Divya,Central,Keyboard,Electronics,2,9000,2600
+O1040,Priya,Eastern,Keyboard,Electronics,4,18000,5200
+O1041,Divya,Western,Backpack,Accessories,8,44000,12800
+O1042,Nila,Central,Keyboard,Electronics,8,36000,10400
+O1043,Ravi,Southern,Notebook,Stationery,7,3500,1190
+O1044,Meena,Central,Notebook,Stationery,11,5500,1870
+O1045,Meena,Northern,Backpack,Accessories,2,11000,3200
+O1046,Priya,Eastern,Backpack,Accessories,10,55000,16000
+O1047,Nila,Northern,T-Shirt,Clothing,6,13200,4800
+O1048,Kavin,Northern,Keyboard,Electronics,3,13500,3900
+O1049,Arun,Southern,Pen,Stationery,3,300,105
+O1050,Meena,Eastern,Notebook,Stationery,11,5500,1870
+O1051,Priya,Southern,Pen,Stationery,12,1200,420
+O1052,Kavin,Southern,Backpack,Accessories,10,55000,16000
+O1053,Priya,Western,Headphones,Electronics,2,13000,3800
+O1054,Meena,Northern,T-Shirt,Clothing,1,2200,800
+O1055,Ravi,Central,Headphones,Electronics,11,71500,20900
+O1056,Nila,Southern,Headphones,Electronics,1,6500,1900
+O1057,Nila,Northern,Backpack,Accessories,3,16500,4800
+O1058,Priya,Western,Water Bottle,Accessories,4,7200,2800
+O1059,Divya,Eastern,Mouse,Electronics,10,25000,7000
+O1060,Kavin,Western,T-Shirt,Clothing,9,19800,7200
+O1061,Priya,Eastern,Keyboard,Electronics,2,9000,2600
+O1062,Meena,Eastern,Headphones,Electronics,6,39000,11400
+O1063,Suresh,Central,Notebook,Stationery,9,4500,1530
+O1064,Suresh,Central,Pen,Stationery,2,200,70
+O1065,Ravi,Western,Water Bottle,Accessories,8,14400,5600
+O1066,Nila,Southern,Pen,Stationery,12,1200,420
+O1067,Kavin,Central,Notebook,Stationery,12,6000,2040
+O1068,Arun,Northern,Pen,Stationery,2,200,70
+O1069,Suresh,Southern,Pen,Stationery,8,800,280
+O1070,Priya,Northern,Notebook,Stationery,2,1000,340
+O1071,Ravi,Eastern,Pen,Stationery,7,700,245
+O1072,Divya,Northern,Headphones,Electronics,3,19500,5700
+O1073,Meena,Western,Water Bottle,Accessories,1,1800,700
+O1074,Nila,Central,Notebook,Stationery,2,1000,340
+O1075,Divya,Eastern,Headphones,Electronics,7,45500,13300
+O1076,Nila,Eastern,Backpack,Accessories,6,33000,9600
+O1077,Nila,Central,Notebook,Stationery,12,6000,2040
+O1078,Ravi,Central,Notebook,Stationery,9,4500,1530
+O1079,Divya,Northern,Headphones,Electronics,10,65000,19000
+O1080,Suresh,Western,T-Shirt,Clothing,5,11000,4000
+O1081,Divya,Central,Notebook,Stationery,9,4500,1530
+O1082,Suresh,Eastern,Keyboard,Electronics,11,49500,14300
+O1083,Kavin,Western,Keyboard,Electronics,12,54000,15600
+O1084,Meena,Southern,Water Bottle,Accessories,3,5400,2100
+O1085,Arun,Eastern,Notebook,Stationery,9,4500,1530
+O1086,Divya,Northern,Keyboard,Electronics,2,9000,2600
+O1087,Arun,Western,Backpack,Accessories,4,22000,6400
+O1088,Kavin,Southern,Headphones,Electronics,12,78000,22800
+O1089,Nila,Eastern,T-Shirt,Clothing,10,22000,8000
+O1090,Arun,Northern,Headphones,Electronics,5,32500,9500
+O1091,Meena,Southern,Notebook,Stationery,12,6000,2040
+O1092,Suresh,Central,Keyboard,Electronics,1,4500,1300
+O1093,Divya,Northern,Headphones,Electronics,8,52000,15200
+O1094,Meena,Central,Backpack,Accessories,11,60500,17600
+O1095,Arun,Northern,Headphones,Electronics,9,58500,17100
+O1096,Divya,Southern,Headphones,Electronics,8,52000,15200
+O1097,Kavin,Central,Headphones,Electronics,3,19500,5700
+O1098,Kavin,Northern,Notebook,Stationery,4,2000,680
+O1099,Arun,Eastern,Headphones,Electronics,6,39000,11400
+O1100,Divya,Eastern,Headphones,Electronics,8,52000,15200
+O1101,Arun,Western,Keyboard,Electronics,2,9000,2600
+O1102,Arun,Central,Notebook,Stationery,8,4000,1360
+O1103,Meena,Eastern,Keyboard,Electronics,1,4500,1300
+O1104,Meena,Central,T-Shirt,Clothing,9,19800,7200
+O1105,Arun,Southern,Pen,Stationery,9,900,315
+O1106,Meena,Southern,Notebook,Stationery,2,1000,340
+O1107,Divya,Northern,Pen,Stationery,9,900,315
+O1108,Divya,Eastern,Mouse,Electronics,11,27500,7700
+O1109,Priya,Southern,Water Bottle,Accessories,3,5400,2100
+O1110,Meena,Western,Keyboard,Electronics,8,36000,10400
+O1111,Meena,Northern,Mouse,Electronics,2,5000,1400
+O1112,Divya,Western,Backpack,Accessories,7,38500,11200
+O1113,Arun,Eastern,Pen,Stationery,4,400,140
+O1114,Divya,Western,Backpack,Accessories,9,49500,14400
+O1115,Kavin,Northern,Mouse,Electronics,2,5000,1400
+O1116,Priya,Southern,Mouse,Electronics,4,10000,2800
+O1117,Meena,Central,T-Shirt,Clothing,4,8800,3200
+O1118,Priya,Southern,Backpack,Accessories,1,5500,1600
+O1119,Kavin,Central,Backpack,Accessories,5,27500,8000
+O1120,Ravi,Southern,Water Bottle,Accessories,1,1800,700
+O1121,Suresh,Southern,T-Shirt,Clothing,1,2200,800
+O1122,Divya,Northern,Keyboard,Electronics,11,49500,14300
+O1123,Suresh,Eastern,Notebook,Stationery,6,3000,1020
+O1124,Divya,Central,Pen,Stationery,2,200,70
+O1125,Arun,Central,Water Bottle,Accessories,9,16200,6300
+O1126,Arun,Central,T-Shirt,Clothing,11,24200,8800
+O1127,Ravi,Northern,Pen,Stationery,3,300,105
+O1128,Kavin,Southern,Pen,Stationery,4,400,140
+O1129,Nila,Western,Pen,Stationery,2,200,70
+O1130,Arun,Western,Keyboard,Electronics,9,40500,11700
+O1131,Nila,Southern,Mouse,Electronics,8,20000,5600
+O1132,Ravi,Central,Mouse,Electronics,3,7500,2100
+O1133,Nila,Northern,Mouse,Electronics,3,7500,2100
+O1134,Kavin,Eastern,Mouse,Electronics,5,12500,3500
+O1135,Kavin,Western,Mouse,Electronics,3,7500,2100
+O1136,Priya,Eastern,Pen,Stationery,7,700,245
+O1137,Meena,Southern,Pen,Stationery,3,300,105
+O1138,Suresh,Southern,Pen,Stationery,8,800,280
+O1139,Divya,Western,T-Shirt,Clothing,11,24200,8800
+O1140,Suresh,Eastern,Mouse,Electronics,4,10000,2800
+O1141,Arun,Northern,Backpack,Accessories,3,16500,4800
+O1142,Divya,Central,Headphones,Electronics,4,26000,7600
+O1143,Ravi,Central,Water Bottle,Accessories,10,18000,7000
+O1144,Divya,Northern,Keyboard,Electronics,1,4500,1300
+O1145,Priya,Southern,Pen,Stationery,7,700,245
+O1146,Divya,Northern,Pen,Stationery,9,900,315
+O1147,Ravi,Eastern,Keyboard,Electronics,12,54000,15600
+O1148,Arun,Eastern,Notebook,Stationery,6,3000,1020
+O1149,Kavin,Southern,Pen,Stationery,9,900,315
+O1150,Kavin,Eastern,Notebook,Stationery,5,2500,850
+O1151,Ravi,Northern,Headphones,Electronics,11,71500,20900
+O1152,Nila,Northern,T-Shirt,Clothing,5,11000,4000
+O1153,Nila,Central,Keyboard,Electronics,6,27000,7800
+O1154,Nila,Northern,T-Shirt,Clothing,4,8800,3200
+O1155,Priya,Southern,Headphones,Electronics,11,71500,20900
+O1156,Arun,Southern,Backpack,Accessories,9,49500,14400
+O1157,Arun,Southern,Mouse,Electronics,10,25000,7000
+O1158,Priya,Northern,Headphones,Electronics,9,58500,17100
+O1159,Divya,Southern,Mouse,Electronics,3,7500,2100
+O1160,Suresh,Western,T-Shirt,Clothing,2,4400,1600
+O1161,Arun,Western,Headphones,Electronics,2,13000,3800
+O1162,Kavin,Central,Mouse,Electronics,11,27500,7700
+O1163,Suresh,Eastern,T-Shirt,Clothing,2,4400,1600
+O1164,Nila,Central,Keyboard,Electronics,8,36000,10400
+O1165,Arun,Eastern,T-Shirt,Clothing,7,15400,5600
+O1166,Suresh,Western,Notebook,Stationery,2,1000,340
+O1167,Ravi,Northern,T-Shirt,Clothing,10,22000,8000
+O1168,Meena,Southern,Mouse,Electronics,3,7500,2100
+O1169,Ravi,Eastern,Water Bottle,Accessories,11,19800,7700
+O1170,Arun,Northern,Headphones,Electronics,12,78000,22800
+O1171,Ravi,Central,Keyboard,Electronics,8,36000,10400
+O1172,Nila,Southern,T-Shirt,Clothing,1,2200,800
+O1173,Kavin,Central,Keyboard,Electronics,5,22500,6500
+O1174,Kavin,Eastern,Pen,Stationery,2,200,70
+O1175,Divya,Western,T-Shirt,Clothing,4,8800,3200
+O1176,Arun,Southern,T-Shirt,Clothing,8,17600,6400
+O1177,Kavin,Western,Backpack,Accessories,4,22000,6400
+O1178,Nila,Southern,T-Shirt,Clothing,5,11000,4000
+O1179,Nila,Southern,Mouse,Electronics,4,10000,2800
+O1180,Divya,Eastern,Pen,Stationery,3,300,105
+O1181,Kavin,Southern,Backpack,Accessories,4,22000,6400
+O1182,Kavin,Southern,Keyboard,Electronics,11,49500,14300
+O1183,Suresh,Northern,Headphones,Electronics,6,39000,11400
+O1184,Divya,Western,Mouse,Electronics,5,12500,3500
+O1185,Kavin,Southern,Keyboard,Electronics,9,40500,11700
+O1186,Kavin,Central,Backpack,Accessories,7,38500,11200
+O1187,Arun,Southern,Pen,Stationery,6,600,210
+O1188,Ravi,Eastern,Water Bottle,Accessories,6,10800,4200
+O1189,Ravi,Northern,T-Shirt,Clothing,5,11000,4000
+O1190,Suresh,Southern,Notebook,Stationery,2,1000,340
+O1191,Priya,Western,Water Bottle,Accessories,3,5400,2100
+O1192,Kavin,Western,Headphones,Electronics,6,39000,11400
+O1193,Meena,Southern,Keyboard,Electronics,3,13500,3900
+O1194,Priya,Central,Pen,Stationery,2,200,70
+O1195,Kavin,Northern,Mouse,Electronics,2,5000,1400
+O1196,Arun,Western,Notebook,Stationery,10,5000,1700
+O1197,Nila,Northern,T-Shirt,Clothing,5,11000,4000
+O1198,Ravi,Central,T-Shirt,Clothing,2,4400,1600
+O1199,Nila,Western,Pen,Stationery,2,200,70
+O1200,Priya,Southern,Notebook,Stationery,4,2000,680
+O1201,Nila,Northern,T-Shirt,Clothing,1,2200,800
+O1202,Meena,Western,Headphones,Electronics,6,39000,11400
+O1203,Divya,Northern,Pen,Stationery,3,300,105
+O1204,Meena,Western,Pen,Stationery,12,1200,420
+O1205,Divya,Central,Notebook,Stationery,9,4500,1530
+O1206,Divya,Northern,Notebook,Stationery,8,4000,1360
+O1207,Meena,Central,Pen,Stationery,8,800,280
+O1208,Suresh,Western,Water Bottle,Accessories,4,7200,2800
+O1209,Priya,Central,T-Shirt,Clothing,11,24200,8800
+O1210,Ravi,Northern,Notebook,Stationery,5,2500,850
+O1211,Suresh,Western,Mouse,Electronics,9,22500,6300
+O1212,Nila,Northern,Headphones,Electronics,12,78000,22800
+O1213,Nila,Central,Keyboard,Electronics,12,54000,15600
+O1214,Kavin,Eastern,Headphones,Electronics,4,26000,7600
+O1215,Arun,Western,Headphones,Electronics,3,19500,5700
+O1216,Ravi,Eastern,Pen,Stationery,4,400,140
+O1217,Kavin,Northern,Water Bottle,Accessories,5,9000,3500
+O1218,Arun,Central,Backpack,Accessories,5,27500,8000
+O1219,Priya,Western,Headphones,Electronics,9,58500,17100
+O1220,Meena,Southern,T-Shirt,Clothing,2,4400,1600
+O1221,Divya,Central,Keyboard,Electronics,3,13500,3900
+O1222,Kavin,Eastern,T-Shirt,Clothing,7,15400,5600
+O1223,Divya,Northern,Notebook,Stationery,7,3500,1190
+O1224,Arun,Southern,T-Shirt,Clothing,2,4400,1600
+O1225,Divya,Southern,Water Bottle,Accessories,8,14400,5600
+O1226,Kavin,Southern,Notebook,Stationery,9,4500,1530
+O1227,Nila,Eastern,Pen,Stationery,2,200,70
+O1228,Divya,Eastern,Backpack,Accessories,6,33000,9600
+O1229,Meena,Southern,Mouse,Electronics,3,7500,2100
+O1230,Arun,Northern,Water Bottle,Accessories,11,19800,7700
+O1231,Nila,Southern,T-Shirt,Clothing,4,8800,3200
+O1232,Kavin,Central,Pen,Stationery,5,500,175
+O1233,Suresh,Western,T-Shirt,Clothing,9,19800,7200
+O1234,Suresh,Central,Mouse,Electronics,7,17500,4900
+O1235,Meena,Central,Water Bottle,Accessories,1,1800,700
+O1236,Kavin,Southern,Pen,Stationery,1,100,35
+O1237,Divya,Central,Notebook,Stationery,12,6000,2040
+O1238,Suresh,Northern,Backpack,Accessories,4,22000,6400
+O1239,Nila,Eastern,Keyboard,Electronics,1,4500,1300
+O1240,Suresh,Southern,Headphones,Electronics,11,71500,20900
+O1241,Arun,Southern,Mouse,Electronics,2,5000,1400
+O1242,Nila,Southern,Notebook,Stationery,12,6000,2040
+O1243,Nila,Eastern,Mouse,Electronics,9,22500,6300
+O1244,Divya,Northern,Headphones,Electronics,5,32500,9500
+O1245,Ravi,Central,Keyboard,Electronics,1,4500,1300
+O1246,Kavin,Eastern,Backpack,Accessories,4,22000,6400
+O1247,Kavin,Central,Notebook,Stationery,3,1500,510
+O1248,Arun,Western,Mouse,Electronics,2,5000,1400
+O1249,Ravi,Eastern,Headphones,Electronics,4,26000,7600
+O1250,Meena,Central,Keyboard,Electronics,11,49500,14300
+O1251,Nila,Western,Keyboard,Electronics,5,22500,6500
+O1252,Nila,Western,Pen,Stationery,1,100,35
+O1253,Divya,Southern,Notebook,Stationery,2,1000,340
+O1254,Kavin,Central,Keyboard,Electronics,8,36000,10400
+O1255,Meena,Southern,Backpack,Accessories,4,22000,6400
+O1256,Suresh,Central,Water Bottle,Accessories,2,3600,1400
+O1257,Nila,Southern,Notebook,Stationery,2,1000,340
+O1258,Kavin,Southern,Backpack,Accessories,8,44000,12800
+O1259,Nila,Central,Pen,Stationery,9,900,315
+O1260,Kavin,Eastern,Headphones,Electronics,3,19500,5700
+O1261,Suresh,Northern,Backpack,Accessories,5,27500,8000
+O1262,Meena,Southern,Pen,Stationery,6,600,210
+O1263,Arun,Western,Pen,Stationery,11,1100,385
+O1264,Kavin,Southern,Notebook,Stationery,2,1000,340
+O1265,Ravi,Central,Headphones,Electronics,9,58500,17100
+O1266,Priya,Northern,Headphones,Electronics,2,13000,3800
+O1267,Kavin,Central,Keyboard,Electronics,9,40500,11700
+O1268,Kavin,Eastern,Notebook,Stationery,8,4000,1360
+O1269,Arun,Eastern,Backpack,Accessories,8,44000,12800
+O1270,Nila,Central,Mouse,Electronics,11,27500,7700
+O1271,Kavin,Eastern,Backpack,Accessories,5,27500,8000
+O1272,Divya,Central,Mouse,Electronics,7,17500,4900
+O1273,Kavin,Southern,T-Shirt,Clothing,10,22000,8000
+O1274,Priya,Western,Keyboard,Electronics,6,27000,7800
+O1275,Arun,Northern,Headphones,Electronics,5,32500,9500
+O1276,Divya,Central,Mouse,Electronics,5,12500,3500
+O1277,Suresh,Northern,Keyboard,Electronics,5,22500,6500
+O1278,Priya,Central,Backpack,Accessories,10,55000,16000
+O1279,Divya,Southern,T-Shirt,Clothing,9,19800,7200
+O1280,Meena,Central,Headphones,Electronics,2,13000,3800
+O1281,Divya,Southern,Keyboard,Electronics,2,9000,2600
+O1282,Arun,Central,T-Shirt,Clothing,10,22000,8000
+O1283,Kavin,Central,Headphones,Electronics,5,32500,9500
+O1284,Arun,Southern,T-Shirt,Clothing,5,11000,4000
+O1285,Suresh,Northern,T-Shirt,Clothing,3,6600,2400
+O1286,Priya,Northern,Pen,Stationery,6,600,210
+O1287,Divya,Central,Headphones,Electronics,3,19500,5700
+O1288,Ravi,Eastern,Pen,Stationery,2,200,70
+O1289,Suresh,Southern,Backpack,Accessories,3,16500,4800
+O1290,Arun,Northern,Headphones,Electronics,4,26000,7600
+O1291,Kavin,Southern,Water Bottle,Accessories,4,7200,2800
+O1292,Priya,Western,Water Bottle,Accessories,4,7200,2800
+O1293,Meena,Eastern,Mouse,Electronics,5,12500,3500
+O1294,Divya,Eastern,Backpack,Accessories,6,33000,9600
+O1295,Divya,Central,T-Shirt,Clothing,12,26400,9600
+O1296,Arun,Central,Water Bottle,Accessories,5,9000,3500
+O1297,Arun,Southern,Water Bottle,Accessories,2,3600,1400
+O1298,Divya,Southern,Water Bottle,Accessories,2,3600,1400
+O1299,Kavin,Western,Backpack,Accessories,10,55000,16000
+O1300,Suresh,Eastern,Keyboard,Electronics,4,18000,5200
+O1301,Suresh,Southern,Mouse,Electronics,2,5000,1400
+O1302,Suresh,Central,Pen,Stationery,4,400,140
+O1303,Suresh,Northern,T-Shirt,Clothing,11,24200,8800
+O1304,Divya,Western,Keyboard,Electronics,6,27000,7800
+O1305,Ravi,Eastern,Notebook,Stationery,4,2000,680
+O1306,Divya,Eastern,Notebook,Stationery,5,2500,850
+O1307,Arun,Northern,T-Shirt,Clothing,10,22000,8000
+O1308,Meena,Eastern,Keyboard,Electronics,2,9000,2600
+O1309,Divya,Western,Headphones,Electronics,2,13000,3800
+O1310,Suresh,Southern,Headphones,Electronics,5,32500,9500
+O1311,Ravi,Central,T-Shirt,Clothing,9,19800,7200
+O1312,Divya,Central,Headphones,Electronics,12,78000,22800
+O1313,Suresh,Eastern,T-Shirt,Clothing,2,4400,1600
+O1314,Suresh,Western,Water Bottle,Accessories,11,19800,7700
+O1315,Meena,Eastern,Notebook,Stationery,10,5000,1700
+O1316,Divya,Central,Notebook,Stationery,11,5500,1870
+O1317,Priya,Northern,Pen,Stationery,2,200,70
+O1318,Kavin,Eastern,Keyboard,Electronics,11,49500,14300
+O1319,Nila,Northern,Keyboard,Electronics,6,27000,7800
+O1320,Suresh,Northern,Notebook,Stationery,3,1500,510
+O1321,Priya,Eastern,Mouse,Electronics,11,27500,7700
+O1322,Kavin,Western,Backpack,Accessories,10,55000,16000
+O1323,Nila,Central,Mouse,Electronics,11,27500,7700
+O1324,Arun,Eastern,Notebook,Stationery,12,6000,2040
+O1325,Suresh,Northern,T-Shirt,Clothing,7,15400,5600
+O1326,Arun,Western,T-Shirt,Clothing,5,11000,4000
+O1327,Arun,Eastern,T-Shirt,Clothing,2,4400,1600
+O1328,Meena,Northern,Headphones,Electronics,8,52000,15200
+O1329,Kavin,Western,Notebook,Stationery,9,4500,1530
+O1330,Priya,Central,Pen,Stationery,6,600,210
+O1331,Ravi,Central,Notebook,Stationery,6,3000,1020
+O1332,Ravi,Eastern,Pen,Stationery,8,800,280
+O1333,Nila,Southern,T-Shirt,Clothing,3,6600,2400
+O1334,Priya,Southern,Headphones,Electronics,5,32500,9500
+O1335,Priya,Northern,T-Shirt,Clothing,5,11000,4000
+O1336,Meena,Southern,Keyboard,Electronics,1,4500,1300
+O1337,Nila,Eastern,Pen,Stationery,9,900,315
+O1338,Kavin,Northern,Notebook,Stationery,4,2000,680
+O1339,Meena,Southern,Backpack,Accessories,5,27500,8000
+O1340,Ravi,Central,Pen,Stationery,5,500,175
+O1341,Nila,Western,Pen,Stationery,4,400,140
+O1342,Suresh,Western,Pen,Stationery,1,100,35
+O1343,Meena,Central,Water Bottle,Accessories,9,16200,6300
+O1344,Arun,Eastern,Mouse,Electronics,4,10000,2800
+O1345,Priya,Southern,Keyboard,Electronics,7,31500,9100
+O1346,Nila,Southern,Headphones,Electronics,10,65000,19000
+O1347,Arun,Southern,Backpack,Accessories,1,5500,1600
+O1348,Suresh,Eastern,Pen,Stationery,5,500,175
+O1349,Suresh,Eastern,Keyboard,Electronics,5,22500,6500
+O1350,Meena,Eastern,Headphones,Electronics,10,65000,19000
+O1351,Arun,Eastern,Headphones,Electronics,1,6500,1900
+O1352,Meena,Central,Pen,Stationery,9,900,315
+O1353,Priya,Western,Keyboard,Electronics,8,36000,10400
+O1354,Meena,Northern,Headphones,Electronics,10,65000,19000
+O1355,Suresh,Southern,Backpack,Accessories,10,55000,16000
+O1356,Nila,Western,Pen,Stationery,9,900,315
+O1357,Divya,Central,Notebook,Stationery,2,1000,340
+O1358,Kavin,Southern,Notebook,Stationery,3,1500,510
+O1359,Priya,Southern,T-Shirt,Clothing,4,8800,3200
+O1360,Suresh,Central,Keyboard,Electronics,7,31500,9100
+O1361,Priya,Central,T-Shirt,Clothing,4,8800,3200
+O1362,Suresh,Northern,Notebook,Stationery,10,5000,1700
+O1363,Suresh,Western,Headphones,Electronics,6,39000,11400
+O1364,Nila,Eastern,Pen,Stationery,11,1100,385
+O1365,Suresh,Eastern,T-Shirt,Clothing,11,24200,8800
+O1366,Nila,Eastern,Backpack,Accessories,4,22000,6400
+O1367,Priya,Central,Notebook,Stationery,8,4000,1360
+O1368,Arun,Northern,Keyboard,Electronics,11,49500,14300
+O1369,Meena,Northern,Mouse,Electronics,5,12500,3500
+O1370,Meena,Eastern,Pen,Stationery,10,1000,350
+O1371,Divya,Central,Headphones,Electronics,5,32500,9500
+O1372,Arun,Eastern,Pen,Stationery,4,400,140
+O1373,Meena,Eastern,Pen,Stationery,4,400,140
+O1374,Ravi,Southern,Water Bottle,Accessories,10,18000,7000
+O1375,Meena,Eastern,Backpack,Accessories,1,5500,1600
+O1376,Arun,Western,Headphones,Electronics,12,78000,22800
+O1377,Ravi,Eastern,Notebook,Stationery,10,5000,1700
+O1378,Ravi,Southern,Keyboard,Electronics,8,36000,10400
+O1379,Suresh,Northern,Backpack,Accessories,8,44000,12800
+O1380,Suresh,Western,Water Bottle,Accessories,6,10800,4200
+O1381,Kavin,Central,T-Shirt,Clothing,10,22000,8000
+O1382,Arun,Southern,Pen,Stationery,12,1200,420
+O1383,Priya,Northern,Water Bottle,Accessories,4,7200,2800
+O1384,Nila,Eastern,Water Bottle,Accessories,9,16200,6300
+O1385,Suresh,Eastern,Mouse,Electronics,1,2500,700
+O1386,Suresh,Central,T-Shirt,Clothing,7,15400,5600
+O1387,Divya,Western,Mouse,Electronics,11,27500,7700
+O1388,Suresh,Central,Mouse,Electronics,11,27500,7700
+O1389,Ravi,Central,Notebook,Stationery,8,4000,1360
+O1390,Ravi,Southern,Headphones,Electronics,9,58500,17100
+O1391,Arun,Southern,Notebook,Stationery,11,5500,1870
+O1392,Kavin,Eastern,Pen,Stationery,8,800,280
+O1393,Nila,Western,Keyboard,Electronics,10,45000,13000
+O1394,Nila,Northern,Water Bottle,Accessories,1,1800,700
+O1395,Kavin,Western,T-Shirt,Clothing,12,26400,9600
+O1396,Nila,Southern,Mouse,Electronics,10,25000,7000
+O1397,Kavin,Southern,Water Bottle,Accessories,8,14400,5600
+O1398,Arun,Southern,T-Shirt,Clothing,5,11000,4000
+O1399,Arun,Central,Backpack,Accessories,9,49500,14400
+O1400,Suresh,Eastern,Backpack,Accessories,11,60500,17600
+O1401,Nila,Southern,Pen,Stationery,5,500,175
+O1402,Ravi,Southern,Water Bottle,Accessories,7,12600,4900
+O1403,Priya,Central,Pen,Stationery,3,300,105
+O1404,Priya,Southern,Mouse,Electronics,6,15000,4200
+O1405,Ravi,Southern,Notebook,Stationery,12,6000,2040
+O1406,Divya,Southern,Water Bottle,Accessories,12,21600,8400
+O1407,Suresh,Central,Mouse,Electronics,12,30000,8400
+O1408,Kavin,Northern,Notebook,Stationery,4,2000,680
+O1409,Divya,Northern,Keyboard,Electronics,4,18000,5200
+O1410,Kavin,Southern,Keyboard,Electronics,1,4500,1300
+O1411,Nila,Central,Pen,Stationery,7,700,245
+O1412,Arun,Eastern,Keyboard,Electronics,8,36000,10400
+O1413,Meena,Southern,Keyboard,Electronics,10,45000,13000
+O1414,Divya,Western,Mouse,Electronics,6,15000,4200
+O1415,Arun,Eastern,Notebook,Stationery,2,1000,340
+O1416,Suresh,Central,Water Bottle,Accessories,7,12600,4900
+O1417,Ravi,Northern,Pen,Stationery,4,400,140
+O1418,Arun,Central,Headphones,Electronics,3,19500,5700
+O1419,Suresh,Northern,Pen,Stationery,2,200,70
+O1420,Nila,Northern,Headphones,Electronics,4,26000,7600
+O1421,Kavin,Western,Keyboard,Electronics,7,31500,9100
+O1422,Divya,Central,Backpack,Accessories,7,38500,11200
+O1423,Meena,Western,Headphones,Electronics,4,26000,7600
+O1424,Priya,Western,Mouse,Electronics,4,10000,2800
+O1425,Suresh,Central,Mouse,Electronics,10,25000,7000
+O1426,Ravi,Northern,Pen,Stationery,9,900,315
+O1427,Kavin,Western,Mouse,Electronics,12,30000,8400
+O1428,Kavin,Eastern,Mouse,Electronics,4,10000,2800
+O1429,Divya,Southern,Headphones,Electronics,3,19500,5700
+O1430,Priya,Southern,Backpack,Accessories,1,5500,1600
+O1431,Nila,Northern,Notebook,Stationery,10,5000,1700
+O1432,Priya,Southern,Notebook,Stationery,8,4000,1360
+O1433,Arun,Eastern,Mouse,Electronics,1,2500,700
+O1434,Priya,Central,Mouse,Electronics,11,27500,7700
+O1435,Kavin,Southern,Mouse,Electronics,12,30000,8400
+O1436,Kavin,Southern,Mouse,Electronics,6,15000,4200
+O1437,Suresh,Central,Notebook,Stationery,7,3500,1190
+O1438,Meena,Southern,Keyboard,Electronics,4,18000,5200
+O1439,Divya,Eastern,Water Bottle,Accessories,6,10800,4200
+O1440,Ravi,Eastern,Backpack,Accessories,10,55000,16000
+O1441,Arun,Eastern,Water Bottle,Accessories,12,21600,8400
+O1442,Nila,Eastern,Backpack,Accessories,12,66000,19200
+O1443,Nila,Western,T-Shirt,Clothing,9,19800,7200
+O1444,Ravi,Northern,Pen,Stationery,8,800,280
+O1445,Nila,Western,T-Shirt,Clothing,3,6600,2400
+O1446,Kavin,Western,Water Bottle,Accessories,10,18000,7000
+O1447,Priya,Eastern,T-Shirt,Clothing,8,17600,6400
+O1448,Meena,Northern,T-Shirt,Clothing,5,11000,4000
+O1449,Kavin,Northern,Water Bottle,Accessories,8,14400,5600
+O1450,Arun,Central,Keyboard,Electronics,6,27000,7800
+O1451,Arun,Eastern,Mouse,Electronics,8,20000,5600
+O1452,Ravi,Eastern,Mouse,Electronics,11,27500,7700
+O1453,Kavin,Central,Water Bottle,Accessories,11,19800,7700
+O1454,Nila,Eastern,Notebook,Stationery,3,1500,510
+O1455,Suresh,Western,Water Bottle,Accessories,3,5400,2100
+O1456,Kavin,Western,Notebook,Stationery,5,2500,850
+O1457,Ravi,Northern,Keyboard,Electronics,10,45000,13000
+O1458,Nila,Northern,Water Bottle,Accessories,12,21600,8400
+O1459,Kavin,Northern,Backpack,Accessories,1,5500,1600
+O1460,Priya,Western,Water Bottle,Accessories,9,16200,6300
+O1461,Divya,Eastern,T-Shirt,Clothing,2,4400,1600
+O1462,Arun,Eastern,Notebook,Stationery,5,2500,850
+O1463,Arun,Southern,Notebook,Stationery,4,2000,680
+O1464,Kavin,Western,Headphones,Electronics,6,39000,11400
+O1465,Nila,Eastern,Notebook,Stationery,2,1000,340
+O1466,Nila,Southern,Backpack,Accessories,11,60500,17600
+O1467,Kavin,Eastern,Water Bottle,Accessories,12,21600,8400
+O1468,Arun,Eastern,Headphones,Electronics,12,78000,22800
+O1469,Kavin,Northern,Keyboard,Electronics,8,36000,10400
+O1470,Arun,Central,Pen,Stationery,4,400,140
+O1471,Priya,Northern,Headphones,Electronics,8,52000,15200
+O1472,Kavin,Western,Headphones,Electronics,12,78000,22800
+O1473,Priya,Western,Backpack,Accessories,11,60500,17600
+O1474,Kavin,Western,Water Bottle,Accessories,10,18000,7000
+O1475,Suresh,Western,T-Shirt,Clothing,9,19800,7200
+O1476,Arun,Southern,Notebook,Stationery,11,5500,1870
+O1477,Priya,Central,Mouse,Electronics,10,25000,7000
+O1478,Ravi,Eastern,Keyboard,Electronics,8,36000,10400
+O1479,Suresh,Western,Water Bottle,Accessories,8,14400,5600
+O1480,Meena,Central,Mouse,Electronics,5,12500,3500
+O1481,Priya,Western,Water Bottle,Accessories,1,1800,700
+O1482,Meena,Southern,Water Bottle,Accessories,3,5400,2100
+O1483,Suresh,Western,Notebook,Stationery,11,5500,1870
+O1484,Meena,Southern,Headphones,Electronics,3,19500,5700
+O1485,Divya,Northern,Mouse,Electronics,10,25000,7000
+O1486,Priya,Southern,Water Bottle,Accessories,1,1800,700
+O1487,Suresh,Northern,Pen,Stationery,3,300,105
+O1488,Meena,Southern,Pen,Stationery,8,800,280
+O1489,Arun,Eastern,Pen,Stationery,2,200,70
+O1490,Arun,Eastern,Headphones,Electronics,12,78000,22800
+O1491,Arun,Southern,Water Bottle,Accessories,4,7200,2800
+O1492,Arun,Western,Keyboard,Electronics,1,4500,1300
+O1493,Divya,Central,Pen,Stationery,5,500,175
+O1494,Nila,Central,Notebook,Stationery,4,2000,680
+O1495,Meena,Western,Backpack,Accessories,8,44000,12800
+O1496,Suresh,Central,Keyboard,Electronics,2,9000,2600
+O1497,Arun,Central,Notebook,Stationery,8,4000,1360
+O1498,Meena,Central,Pen,Stationery,9,900,315
+O1499,Arun,Central,Pen,Stationery,11,1100,385
+O1500,Suresh,Eastern,Water Bottle,Accessories,4,7200,2800
+O1501,Kavin,Central,Keyboard,Electronics,10,45000,13000
+O1502,Kavin,Eastern,Backpack,Accessories,5,27500,8000
+O1503,Priya,Southern,Pen,Stationery,10,1000,350
+O1504,Nila,Northern,Backpack,Accessories,12,66000,19200
+O1505,Arun,Central,Backpack,Accessories,1,5500,1600
+O1506,Divya,Eastern,Backpack,Accessories,12,66000,19200
+O1507,Divya,Central,Headphones,Electronics,9,58500,17100
+O1508,Nila,Western,Backpack,Accessories,1,5500,1600
+O1509,Nila,Central,Mouse,Electronics,1,2500,700
+O1510,Kavin,Eastern,Water Bottle,Accessories,4,7200,2800
+O1511,Priya,Central,Backpack,Accessories,8,44000,12800
+O1512,Divya,Western,Notebook,Stationery,3,1500,510
+O1513,Suresh,Southern,Mouse,Electronics,7,17500,4900
+O1514,Suresh,Northern,Keyboard,Electronics,11,49500,14300
+O1515,Suresh,Eastern,Water Bottle,Accessories,4,7200,2800
+O1516,Priya,Eastern,T-Shirt,Clothing,12,26400,9600
+O1517,Divya,Central,Backpack,Accessories,12,66000,19200
+O1518,Ravi,Western,Keyboard,Electronics,1,4500,1300
+O1519,Arun,Eastern,Water Bottle,Accessories,5,9000,3500
+O1520,Priya,Eastern,Backpack,Accessories,1,5500,1600
+O1521,Kavin,Central,Water Bottle,Accessories,1,1800,700
+O1522,Meena,Southern,Pen,Stationery,3,300,105
+O1523,Nila,Central,Headphones,Electronics,7,45500,13300
+O1524,Kavin,Western,T-Shirt,Clothing,6,13200,4800
+O1525,Arun,Northern,T-Shirt,Clothing,11,24200,8800
+O1526,Suresh,Southern,Backpack,Accessories,9,49500,14400
+O1527,Priya,Eastern,Mouse,Electronics,7,17500,4900
+O1528,Arun,Central,Headphones,Electronics,12,78000,22800
+O1529,Ravi,Eastern,Backpack,Accessories,5,27500,8000
+O1530,Ravi,Northern,Headphones,Electronics,6,39000,11400
+O1531,Divya,Western,Notebook,Stationery,8,4000,1360
+O1532,Meena,Southern,T-Shirt,Clothing,12,26400,9600
+O1533,Nila,Eastern,Mouse,Electronics,11,27500,7700
+O1534,Nila,Northern,Keyboard,Electronics,8,36000,10400
+O1535,Ravi,Northern,Backpack,Accessories,7,38500,11200
+O1536,Meena,Northern,Pen,Stationery,8,800,280
+O1537,Kavin,Central,Backpack,Accessories,5,27500,8000
+O1538,Priya,Southern,Water Bottle,Accessories,2,3600,1400
+O1539,Divya,Southern,Water Bottle,Accessories,8,14400,5600
+O1540,Arun,Western,Headphones,Electronics,12,78000,22800
+O1541,Ravi,Southern,Keyboard,Electronics,10,45000,13000
+O1542,Priya,Eastern,Water Bottle,Accessories,11,19800,7700
+O1543,Suresh,Western,Headphones,Electronics,5,32500,9500
+O1544,Nila,Central,Water Bottle,Accessories,6,10800,4200
+O1545,Priya,Southern,T-Shirt,Clothing,10,22000,8000
+O1546,Nila,Central,Headphones,Electronics,2,13000,3800
+O1547,Meena,Northern,T-Shirt,Clothing,9,19800,7200
+O1548,Nila,Western,Mouse,Electronics,3,7500,2100
+O1549,Suresh,Northern,Pen,Stationery,10,1000,350
+O1550,Ravi,Southern,Pen,Stationery,10,1000,350
+O1551,Divya,Central,T-Shirt,Clothing,6,13200,4800
+O1552,Kavin,Eastern,T-Shirt,Clothing,5,11000,4000
+O1553,Suresh,Central,Pen,Stationery,5,500,175
+O1554,Ravi,Northern,Headphones,Electronics,2,13000,3800
+O1555,Kavin,Southern,Water Bottle,Accessories,3,5400,2100
+O1556,Suresh,Central,Backpack,Accessories,6,33000,9600
+O1557,Kavin,Southern,T-Shirt,Clothing,6,13200,4800
+O1558,Nila,Western,Headphones,Electronics,6,39000,11400
+O1559,Nila,Western,Notebook,Stationery,5,2500,850
+O1560,Priya,Western,T-Shirt,Clothing,1,2200,800
+O1561,Divya,Eastern,Keyboard,Electronics,11,49500,14300
+O1562,Priya,Southern,Headphones,Electronics,12,78000,22800
+O1563,Priya,Central,Mouse,Electronics,3,7500,2100
+O1564,Priya,Northern,Pen,Stationery,9,900,315
+O1565,Suresh,Western,Backpack,Accessories,2,11000,3200
+O1566,Arun,Southern,Backpack,Accessories,3,16500,4800
+O1567,Meena,Southern,Pen,Stationery,1,100,35
+O1568,Arun,Northern,Keyboard,Electronics,6,27000,7800
+O1569,Arun,Western,Pen,Stationery,2,200,70
+O1570,Nila,Western,Pen,Stationery,2,200,70
+O1571,Ravi,Central,Water Bottle,Accessories,9,16200,6300
+O1572,Divya,Southern,Notebook,Stationery,1,500,170
+O1573,Priya,Northern,Headphones,Electronics,12,78000,22800
+O1574,Suresh,Northern,Headphones,Electronics,6,39000,11400
+O1575,Meena,Southern,T-Shirt,Clothing,6,13200,4800
+O1576,Meena,Southern,Keyboard,Electronics,7,31500,9100
+O1577,Arun,Eastern,Headphones,Electronics,6,39000,11400
+O1578,Arun,Western,Water Bottle,Accessories,7,12600,4900
+O1579,Meena,Central,Mouse,Electronics,9,22500,6300
+O1580,Meena,Western,Notebook,Stationery,7,3500,1190
+O1581,Ravi,Eastern,T-Shirt,Clothing,11,24200,8800
+O1582,Nila,Southern,T-Shirt,Clothing,6,13200,4800
+O1583,Divya,Northern,Keyboard,Electronics,6,27000,7800
+O1584,Divya,Northern,Backpack,Accessories,3,16500,4800
+O1585,Kavin,Central,Pen,Stationery,6,600,210
+O1586,Arun,Northern,Notebook,Stationery,10,5000,1700
+O1587,Divya,Northern,T-Shirt,Clothing,9,19800,7200
+O1588,Nila,Eastern,Backpack,Accessories,1,5500,1600
+O1589,Ravi,Western,Headphones,Electronics,11,71500,20900
+O1590,Priya,Central,Keyboard,Electronics,8,36000,10400
+O1591,Divya,Western,Pen,Stationery,8,800,280
+O1592,Kavin,Eastern,Pen,Stationery,7,700,245
+O1593,Kavin,Southern,Keyboard,Electronics,3,13500,3900
+O1594,Divya,Western,Water Bottle,Accessories,2,3600,1400
+O1595,Suresh,Eastern,Backpack,Accessories,9,49500,14400
+O1596,Suresh,Central,Keyboard,Electronics,3,13500,3900
+O1597,Arun,Eastern,Mouse,Electronics,6,15000,4200
+O1598,Ravi,Southern,Pen,Stationery,1,100,35
+O1599,Ravi,Western,Headphones,Electronics,3,19500,5700
+O1600,Meena,Western,Keyboard,Electronics,9,40500,11700
+O1601,Nila,Southern,Headphones,Electronics,9,58500,17100
+O1602,Arun,Eastern,Mouse,Electronics,3,7500,2100
+O1603,Priya,Central,Keyboard,Electronics,8,36000,10400
+O1604,Divya,Central,Water Bottle,Accessories,2,3600,1400
+O1605,Nila,Northern,T-Shirt,Clothing,2,4400,1600
+O1606,Kavin,Western,Headphones,Electronics,5,32500,9500
+O1607,Ravi,Central,Keyboard,Electronics,1,4500,1300
+O1608,Arun,Western,Headphones,Electronics,6,39000,11400
+O1609,Ravi,Central,Pen,Stationery,12,1200,420
+O1610,Divya,Western,Notebook,Stationery,2,1000,340
+O1611,Divya,Northern,Notebook,Stationery,7,3500,1190
+O1612,Nila,Southern,Backpack,Accessories,1,5500,1600
+O1613,Ravi,Northern,Notebook,Stationery,6,3000,1020
+O1614,Arun,Eastern,Backpack,Accessories,3,16500,4800
+O1615,Ravi,Central,Pen,Stationery,4,400,140
+O1616,Priya,Western,Backpack,Accessories,10,55000,16000
+O1617,Suresh,Eastern,Keyboard,Electronics,9,40500,11700
+O1618,Priya,Eastern,Pen,Stationery,3,300,105
+O1619,Meena,Central,Headphones,Electronics,6,39000,11400
+O1620,Nila,Northern,Notebook,Stationery,11,5500,1870
+O1621,Meena,Southern,Water Bottle,Accessories,7,12600,4900
+O1622,Divya,Northern,T-Shirt,Clothing,2,4400,1600
+O1623,Nila,Northern,Headphones,Electronics,6,39000,11400
+O1624,Suresh,Southern,Notebook,Stationery,10,5000,1700
+O1625,Priya,Central,Headphones,Electronics,9,58500,17100
+O1626,Meena,Southern,Notebook,Stationery,1,500,170
+O1627,Kavin,Southern,Mouse,Electronics,5,12500,3500
+O1628,Nila,Southern,Headphones,Electronics,8,52000,15200
+O1629,Meena,Northern,Keyboard,Electronics,5,22500,6500
+O1630,Ravi,Western,T-Shirt,Clothing,10,22000,8000
+O1631,Divya,Central,Notebook,Stationery,5,2500,850
+O1632,Kavin,Eastern,Keyboard,Electronics,7,31500,9100
+O1633,Priya,Northern,Headphones,Electronics,12,78000,22800
+O1634,Arun,Western,Pen,Stationery,8,800,280
+O1635,Meena,Central,Backpack,Accessories,8,44000,12800
+O1636,Ravi,Southern,Backpack,Accessories,2,11000,3200
+O1637,Meena,Western,Headphones,Electronics,3,19500,5700
+O1638,Priya,Eastern,Mouse,Electronics,2,5000,1400
+O1639,Ravi,Central,Notebook,Stationery,12,6000,2040
+O1640,Divya,Eastern,Pen,Stationery,2,200,70
+O1641,Divya,Southern,Water Bottle,Accessories,1,1800,700
+O1642,Ravi,Northern,Headphones,Electronics,3,19500,5700
+O1643,Ravi,Central,Mouse,Electronics,1,2500,700
+O1644,Ravi,Central,Pen,Stationery,4,400,140
+O1645,Divya,Western,Mouse,Electronics,4,10000,2800
+O1646,Ravi,Eastern,Headphones,Electronics,7,45500,13300
+O1647,Meena,Northern,T-Shirt,Clothing,5,11000,4000
+O1648,Suresh,Central,T-Shirt,Clothing,1,2200,800
+O1649,Meena,Western,Water Bottle,Accessories,3,5400,2100
+O1650,Divya,Southern,Backpack,Accessories,11,60500,17600
+O1651,Priya,Central,Pen,Stationery,9,900,315
+O1652,Nila,Southern,T-Shirt,Clothing,12,26400,9600
+O1653,Divya,Western,Backpack,Accessories,3,16500,4800
+O1654,Ravi,Western,T-Shirt,Clothing,3,6600,2400
+O1655,Divya,Eastern,Backpack,Accessories,4,22000,6400
+O1656,Ravi,Northern,Headphones,Electronics,11,71500,20900
+O1657,Priya,Western,Mouse,Electronics,11,27500,7700
+O1658,Meena,Northern,Notebook,Stationery,2,1000,340
+O1659,Arun,Eastern,T-Shirt,Clothing,11,24200,8800
+O1660,Suresh,Eastern,Water Bottle,Accessories,10,18000,7000
+O1661,Meena,Southern,Backpack,Accessories,3,16500,4800
+O1662,Arun,Northern,Headphones,Electronics,1,6500,1900
+O1663,Priya,Eastern,Headphones,Electronics,6,39000,11400
+O1664,Arun,Western,Water Bottle,Accessories,3,5400,2100
+O1665,Priya,Northern,Mouse,Electronics,9,22500,6300
+O1666,Priya,Eastern,Pen,Stationery,10,1000,350
+O1667,Kavin,Northern,Backpack,Accessories,7,38500,11200
+O1668,Ravi,Western,Notebook,Stationery,8,4000,1360
+O1669,Suresh,Northern,T-Shirt,Clothing,5,11000,4000
+O1670,Arun,Northern,Keyboard,Electronics,7,31500,9100
+O1671,Priya,Northern,Notebook,Stationery,10,5000,1700
+O1672,Meena,Western,Headphones,Electronics,7,45500,13300
+O1673,Divya,Central,T-Shirt,Clothing,6,13200,4800
+O1674,Kavin,Central,Notebook,Stationery,5,2500,850
+O1675,Ravi,Southern,Mouse,Electronics,9,22500,6300
+O1676,Kavin,Central,Backpack,Accessories,5,27500,8000
+O1677,Divya,Southern,Mouse,Electronics,8,20000,5600
+O1678,Divya,Western,Backpack,Accessories,8,44000,12800
+O1679,Meena,Western,Backpack,Accessories,6,33000,9600
+O1680,Nila,Western,T-Shirt,Clothing,10,22000,8000
+O1681,Kavin,Western,Headphones,Electronics,10,65000,19000
+O1682,Divya,Western,Headphones,Electronics,4,26000,7600
+O1683,Divya,Central,Pen,Stationery,3,300,105
+O1684,Divya,Western,Keyboard,Electronics,11,49500,14300
+O1685,Priya,Eastern,Notebook,Stationery,8,4000,1360
+O1686,Nila,Southern,Headphones,Electronics,2,13000,3800
+O1687,Suresh,Western,Backpack,Accessories,6,33000,9600
+O1688,Arun,Eastern,T-Shirt,Clothing,7,15400,5600
+O1689,Meena,Southern,Mouse,Electronics,6,15000,4200
+O1690,Suresh,Western,Notebook,Stationery,11,5500,1870
+O1691,Suresh,Western,Notebook,Stationery,6,3000,1020
+O1692,Kavin,Southern,Water Bottle,Accessories,8,14400,5600
+O1693,Divya,Eastern,Headphones,Electronics,5,32500,9500
+O1694,Priya,Western,Keyboard,Electronics,3,13500,3900
+O1695,Arun,Southern,Keyboard,Electronics,10,45000,13000
+O1696,Kavin,Central,Water Bottle,Accessories,12,21600,8400
+O1697,Priya,Central,Keyboard,Electronics,5,22500,6500
+O1698,Arun,Central,Notebook,Stationery,4,2000,680
+O1699,Suresh,Western,Notebook,Stationery,7,3500,1190
+O1700,Meena,Eastern,T-Shirt,Clothing,2,4400,1600
+O1701,Priya,Western,Mouse,Electronics,12,30000,8400
+O1702,Divya,Eastern,Water Bottle,Accessories,4,7200,2800
+O1703,Divya,Southern,Water Bottle,Accessories,10,18000,7000
+O1704,Ravi,Western,Backpack,Accessories,10,55000,16000
+O1705,Divya,Southern,Mouse,Electronics,6,15000,4200
+O1706,Nila,Eastern,Pen,Stationery,8,800,280
+O1707,Arun,Eastern,Notebook,Stationery,1,500,170
+O1708,Nila,Southern,T-Shirt,Clothing,4,8800,3200
+O1709,Divya,Western,Mouse,Electronics,4,10000,2800
+O1710,Kavin,Eastern,Notebook,Stationery,11,5500,1870
+O1711,Ravi,Central,Water Bottle,Accessories,4,7200,2800
+O1712,Kavin,Northern,Headphones,Electronics,8,52000,15200
+O1713,Meena,Northern,Backpack,Accessories,5,27500,8000
+O1714,Ravi,Western,T-Shirt,Clothing,10,22000,8000
+O1715,Ravi,Eastern,Notebook,Stationery,9,4500,1530
+O1716,Arun,Eastern,Headphones,Electronics,11,71500,20900
+O1717,Meena,Northern,Water Bottle,Accessories,8,14400,5600
+O1718,Suresh,Northern,Mouse,Electronics,6,15000,4200
+O1719,Arun,Northern,Headphones,Electronics,5,32500,9500
+O1720,Nila,Southern,Backpack,Accessories,8,44000,12800
+O1721,Kavin,Western,T-Shirt,Clothing,10,22000,8000
+O1722,Suresh,Central,Headphones,Electronics,10,65000,19000
+O1723,Meena,Northern,T-Shirt,Clothing,5,11000,4000
+O1724,Suresh,Central,T-Shirt,Clothing,7,15400,5600
+O1725,Suresh,Western,Headphones,Electronics,3,19500,5700
+O1726,Ravi,Northern,Backpack,Accessories,12,66000,19200
+O1727,Ravi,Eastern,Notebook,Stationery,7,3500,1190
+O1728,Arun,Central,Notebook,Stationery,11,5500,1870
+O1729,Kavin,Eastern,Mouse,Electronics,10,25000,7000
+O1730,Suresh,Eastern,T-Shirt,Clothing,7,15400,5600
+O1731,Ravi,Southern,Pen,Stationery,10,1000,350
+O1732,Suresh,Southern,Water Bottle,Accessories,7,12600,4900
+O1733,Nila,Northern,Pen,Stationery,2,200,70
+O1734,Priya,Western,T-Shirt,Clothing,9,19800,7200
+O1735,Nila,Eastern,T-Shirt,Clothing,6,13200,4800
+O1736,Ravi,Central,Water Bottle,Accessories,4,7200,2800
+O1737,Priya,Central,Backpack,Accessories,3,16500,4800
+O1738,Meena,Southern,Keyboard,Electronics,8,36000,10400
+O1739,Nila,Western,Backpack,Accessories,9,49500,14400
+O1740,Suresh,Southern,Backpack,Accessories,10,55000,16000
+O1741,Priya,Southern,T-Shirt,Clothing,9,19800,7200
+O1742,Nila,Central,Keyboard,Electronics,5,22500,6500
+O1743,Divya,Western,T-Shirt,Clothing,2,4400,1600
+O1744,Suresh,Northern,T-Shirt,Clothing,7,15400,5600
+O1745,Nila,Eastern,Backpack,Accessories,10,55000,16000
+O1746,Divya,Eastern,Notebook,Stationery,11,5500,1870
+O1747,Ravi,Southern,Headphones,Electronics,4,26000,7600
+O1748,Ravi,Eastern,Notebook,Stationery,9,4500,1530
+O1749,Arun,Northern,Keyboard,Electronics,9,40500,11700
+O1750,Divya,Northern,Notebook,Stationery,3,1500,510
+O1751,Arun,Southern,Pen,Stationery,12,1200,420
+O1752,Divya,Central,Backpack,Accessories,4,22000,6400
+O1753,Nila,Eastern,T-Shirt,Clothing,5,11000,4000
+O1754,Divya,Southern,Backpack,Accessories,1,5500,1600
+O1755,Ravi,Northern,T-Shirt,Clothing,5,11000,4000
+O1756,Ravi,Southern,Pen,Stationery,7,700,245
+O1757,Arun,Western,T-Shirt,Clothing,5,11000,4000
+O1758,Suresh,Western,Notebook,Stationery,10,5000,1700
+O1759,Nila,Western,Keyboard,Electronics,12,54000,15600
+O1760,Ravi,Northern,Keyboard,Electronics,7,31500,9100
+O1761,Divya,Northern,Notebook,Stationery,10,5000,1700
+O1762,Divya,Eastern,Notebook,Stationery,11,5500,1870
+O1763,Suresh,Southern,Pen,Stationery,12,1200,420
+O1764,Ravi,Eastern,Pen,Stationery,1,100,35
+O1765,Suresh,Central,Water Bottle,Accessories,8,14400,5600
+O1766,Divya,Central,Backpack,Accessories,5,27500,8000
+O1767,Arun,Eastern,Mouse,Electronics,8,20000,5600
+O1768,Priya,Northern,Headphones,Electronics,5,32500,9500
+O1769,Kavin,Northern,Backpack,Accessories,8,44000,12800
+O1770,Kavin,Northern,Keyboard,Electronics,6,27000,7800
+O1771,Suresh,Western,Keyboard,Electronics,6,27000,7800
+O1772,Nila,Southern,Water Bottle,Accessories,12,21600,8400
+O1773,Ravi,Eastern,Notebook,Stationery,10,5000,1700
+O1774,Divya,Western,T-Shirt,Clothing,3,6600,2400
+O1775,Divya,Eastern,Backpack,Accessories,5,27500,8000
+O1776,Divya,Western,Keyboard,Electronics,7,31500,9100
+O1777,Suresh,Southern,Pen,Stationery,9,900,315
+O1778,Suresh,Central,Headphones,Electronics,7,45500,13300
+O1779,Ravi,Southern,Keyboard,Electronics,7,31500,9100
+O1780,Suresh,Central,Headphones,Electronics,4,26000,7600
+O1781,Ravi,Eastern,Mouse,Electronics,9,22500,6300
+O1782,Priya,Western,Notebook,Stationery,7,3500,1190
+O1783,Suresh,Central,Water Bottle,Accessories,8,14400,5600
+O1784,Meena,Northern,Notebook,Stationery,12,6000,2040
+O1785,Arun,Western,Headphones,Electronics,11,71500,20900
+O1786,Ravi,Southern,Keyboard,Electronics,1,4500,1300
+O1787,Ravi,Northern,Keyboard,Electronics,4,18000,5200
+O1788,Nila,Eastern,Headphones,Electronics,8,52000,15200
+O1789,Arun,Southern,Water Bottle,Accessories,8,14400,5600
+O1790,Ravi,Western,Notebook,Stationery,1,500,170
+O1791,Kavin,Central,T-Shirt,Clothing,10,22000,8000
+O1792,Suresh,Eastern,Backpack,Accessories,7,38500,11200
+O1793,Suresh,Northern,Headphones,Electronics,10,65000,19000
+O1794,Ravi,Western,Mouse,Electronics,4,10000,2800
+O1795,Ravi,Southern,Pen,Stationery,6,600,210
+O1796,Kavin,Central,Pen,Stationery,4,400,140
+O1797,Arun,Northern,Headphones,Electronics,11,71500,20900
+O1798,Ravi,Eastern,Headphones,Electronics,2,13000,3800
+O1799,Ravi,Western,Keyboard,Electronics,2,9000,2600
+O1800,Arun,Northern,Water Bottle,Accessories,5,9000,3500
+O1801,Meena,Southern,Mouse,Electronics,6,15000,4200
+O1802,Divya,Western,Pen,Stationery,9,900,315
+O1803,Arun,Eastern,Mouse,Electronics,8,20000,5600
+O1804,Meena,Northern,Pen,Stationery,9,900,315
+O1805,Priya,Southern,Notebook,Stationery,12,6000,2040
+O1806,Meena,Eastern,Notebook,Stationery,2,1000,340
+O1807,Priya,Eastern,T-Shirt,Clothing,2,4400,1600
+O1808,Meena,Central,Backpack,Accessories,3,16500,4800
+O1809,Divya,Southern,Water Bottle,Accessories,7,12600,4900
+O1810,Meena,Eastern,Headphones,Electronics,8,52000,15200
+O1811,Arun,Southern,Water Bottle,Accessories,9,16200,6300
+O1812,Priya,Northern,Keyboard,Electronics,6,27000,7800
+O1813,Nila,Western,Backpack,Accessories,10,55000,16000
+O1814,Nila,Central,Headphones,Electronics,6,39000,11400
+O1815,Divya,Central,Headphones,Electronics,3,19500,5700
+O1816,Kavin,Southern,Backpack,Accessories,2,11000,3200
+O1817,Nila,Southern,Backpack,Accessories,8,44000,12800
+O1818,Meena,Central,Mouse,Electronics,4,10000,2800
+O1819,Nila,Northern,Keyboard,Electronics,10,45000,13000
+O1820,Suresh,Western,Headphones,Electronics,3,19500,5700
+O1821,Suresh,Southern,Headphones,Electronics,8,52000,15200
+O1822,Priya,Northern,Keyboard,Electronics,3,13500,3900
+O1823,Divya,Eastern,Pen,Stationery,9,900,315
+O1824,Priya,Eastern,Notebook,Stationery,7,3500,1190
+O1825,Ravi,Eastern,Keyboard,Electronics,5,22500,6500
+O1826,Ravi,Eastern,Notebook,Stationery,6,3000,1020
+O1827,Divya,Eastern,Pen,Stationery,9,900,315
+O1828,Kavin,Southern,Pen,Stationery,3,300,105
+O1829,Arun,Southern,Mouse,Electronics,3,7500,2100
+O1830,Divya,Northern,T-Shirt,Clothing,10,22000,8000
+O1831,Kavin,Eastern,Water Bottle,Accessories,6,10800,4200
+O1832,Kavin,Central,Backpack,Accessories,11,60500,17600
+O1833,Suresh,Western,Mouse,Electronics,6,15000,4200
+O1834,Divya,Western,Notebook,Stationery,10,5000,1700
+O1835,Ravi,Southern,Mouse,Electronics,10,25000,7000
+O1836,Arun,Central,Headphones,Electronics,4,26000,7600
+O1837,Meena,Central,Notebook,Stationery,11,5500,1870
+O1838,Meena,Southern,Headphones,Electronics,2,13000,3800
+O1839,Divya,Northern,Headphones,Electronics,6,39000,11400
+O1840,Divya,Central,Notebook,Stationery,10,5000,1700
+O1841,Priya,Northern,Notebook,Stationery,7,3500,1190
+O1842,Meena,Central,Backpack,Accessories,7,38500,11200
+O1843,Divya,Western,Notebook,Stationery,11,5500,1870
+O1844,Arun,Southern,Headphones,Electronics,5,32500,9500
+O1845,Meena,Central,Notebook,Stationery,12,6000,2040
+O1846,Divya,Southern,Keyboard,Electronics,11,49500,14300
+O1847,Divya,Western,Keyboard,Electronics,9,40500,11700
+O1848,Arun,Eastern,Backpack,Accessories,3,16500,4800
+O1849,Priya,Northern,Notebook,Stationery,12,6000,2040
+O1850,Suresh,Western,Backpack,Accessories,5,27500,8000
+O1851,Priya,Northern,Mouse,Electronics,4,10000,2800
+O1852,Suresh,Central,Backpack,Accessories,2,11000,3200
+O1853,Priya,Western,Keyboard,Electronics,7,31500,9100
+O1854,Ravi,Eastern,Notebook,Stationery,11,5500,1870
+O1855,Priya,Southern,Mouse,Electronics,11,27500,7700
+O1856,Kavin,Central,Keyboard,Electronics,9,40500,11700
+O1857,Meena,Central,Keyboard,Electronics,12,54000,15600
+O1858,Arun,Central,Keyboard,Electronics,4,18000,5200
+O1859,Meena,Eastern,T-Shirt,Clothing,3,6600,2400
+O1860,Suresh,Eastern,Pen,Stationery,4,400,140
+O1861,Meena,Southern,Headphones,Electronics,2,13000,3800
+O1862,Meena,Western,Backpack,Accessories,8,44000,12800
+O1863,Suresh,Eastern,Headphones,Electronics,3,19500,5700
+O1864,Meena,Northern,Mouse,Electronics,3,7500,2100
+O1865,Ravi,Central,Mouse,Electronics,3,7500,2100
+O1866,Divya,Southern,T-Shirt,Clothing,10,22000,8000
+O1867,Ravi,Central,Backpack,Accessories,6,33000,9600
+O1868,Kavin,Southern,Mouse,Electronics,9,22500,6300
+O1869,Suresh,Northern,Pen,Stationery,8,800,280
+O1870,Ravi,Central,Water Bottle,Accessories,5,9000,3500
+O1871,Kavin,Western,T-Shirt,Clothing,11,24200,8800
+O1872,Priya,Northern,Keyboard,Electronics,6,27000,7800
+O1873,Priya,Eastern,Pen,Stationery,4,400,140
+O1874,Nila,Western,Water Bottle,Accessories,2,3600,1400
+O1875,Ravi,Eastern,Mouse,Electronics,12,30000,8400
+O1876,Suresh,Eastern,Keyboard,Electronics,9,40500,11700
+O1877,Ravi,Northern,Keyboard,Electronics,6,27000,7800
+O1878,Divya,Southern,Water Bottle,Accessories,4,7200,2800
+O1879,Divya,Western,Headphones,Electronics,4,26000,7600
+O1880,Nila,Southern,Pen,Stationery,2,200,70
+O1881,Kavin,Eastern,Keyboard,Electronics,6,27000,7800
+O1882,Divya,Eastern,Mouse,Electronics,11,27500,7700
+O1883,Suresh,Northern,T-Shirt,Clothing,7,15400,5600
+O1884,Meena,Northern,Backpack,Accessories,7,38500,11200
+O1885,Ravi,Central,Backpack,Accessories,5,27500,8000
+O1886,Kavin,Northern,T-Shirt,Clothing,2,4400,1600
+O1887,Priya,Southern,Mouse,Electronics,11,27500,7700
+O1888,Divya,Southern,Notebook,Stationery,5,2500,850
+O1889,Nila,Central,Notebook,Stationery,7,3500,1190
+O1890,Nila,Western,Mouse,Electronics,6,15000,4200
+O1891,Nila,Eastern,Keyboard,Electronics,5,22500,6500
+O1892,Kavin,Southern,Keyboard,Electronics,3,13500,3900
+O1893,Arun,Central,Backpack,Accessories,9,49500,14400
+O1894,Nila,Central,Pen,Stationery,3,300,105
+O1895,Nila,Southern,Mouse,Electronics,11,27500,7700
+O1896,Nila,Eastern,Notebook,Stationery,12,6000,2040
+O1897,Arun,Southern,Water Bottle,Accessories,7,12600,4900
+O1898,Divya,Western,Pen,Stationery,10,1000,350
+O1899,Arun,Southern,Keyboard,Electronics,9,40500,11700
+O1900,Nila,Central,Mouse,Electronics,2,5000,1400
+O1901,Meena,Eastern,T-Shirt,Clothing,5,11000,4000
+O1902,Priya,Central,Mouse,Electronics,9,22500,6300
+O1903,Meena,Eastern,T-Shirt,Clothing,3,6600,2400
+O1904,Priya,Southern,Water Bottle,Accessories,4,7200,2800
+O1905,Suresh,Eastern,Mouse,Electronics,10,25000,7000
+O1906,Nila,Central,T-Shirt,Clothing,12,26400,9600
+O1907,Priya,Eastern,Backpack,Accessories,1,5500,1600
+O1908,Ravi,Eastern,Pen,Stationery,1,100,35
+O1909,Divya,Central,Mouse,Electronics,9,22500,6300
+O1910,Suresh,Western,T-Shirt,Clothing,3,6600,2400
+O1911,Priya,Central,Mouse,Electronics,2,5000,1400
+O1912,Arun,Southern,Headphones,Electronics,11,71500,20900
+O1913,Ravi,Western,Headphones,Electronics,8,52000,15200
+O1914,Meena,Southern,Water Bottle,Accessories,9,16200,6300
+O1915,Nila,Eastern,Pen,Stationery,2,200,70
+O1916,Suresh,Central,T-Shirt,Clothing,7,15400,5600
+O1917,Meena,Western,T-Shirt,Clothing,6,13200,4800
+O1918,Nila,Central,Mouse,Electronics,6,15000,4200
+O1919,Kavin,Eastern,Mouse,Electronics,12,30000,8400
+O1920,Divya,Western,Backpack,Accessories,3,16500,4800
+O1921,Meena,Western,Notebook,Stationery,5,2500,850
+O1922,Arun,Southern,T-Shirt,Clothing,5,11000,4000
+O1923,Meena,Central,Water Bottle,Accessories,11,19800,7700
+O1924,Arun,Eastern,Pen,Stationery,6,600,210
+O1925,Priya,Central,Headphones,Electronics,7,45500,13300
+O1926,Ravi,Central,Notebook,Stationery,3,1500,510
+O1927,Meena,Northern,Mouse,Electronics,12,30000,8400
+O1928,Nila,Western,Pen,Stationery,2,200,70
+O1929,Meena,Northern,Backpack,Accessories,5,27500,8000
+O1930,Meena,Eastern,Pen,Stationery,4,400,140
+O1931,Suresh,Central,Water Bottle,Accessories,2,3600,1400
+O1932,Meena,Western,Water Bottle,Accessories,3,5400,2100
+O1933,Suresh,Central,Headphones,Electronics,4,26000,7600
+O1934,Suresh,Western,Headphones,Electronics,10,65000,19000
+O1935,Suresh,Central,Water Bottle,Accessories,4,7200,2800
+O1936,Kavin,Western,Notebook,Stationery,5,2500,850
+O1937,Ravi,Eastern,T-Shirt,Clothing,12,26400,9600
+O1938,Divya,Northern,Water Bottle,Accessories,10,18000,7000
+O1939,Arun,Southern,Keyboard,Electronics,3,13500,3900
+O1940,Ravi,Central,T-Shirt,Clothing,12,26400,9600
+O1941,Suresh,Southern,Notebook,Stationery,9,4500,1530
+O1942,Kavin,Central,Keyboard,Electronics,7,31500,9100
+O1943,Arun,Western,Headphones,Electronics,3,19500,5700
+O1944,Divya,Central,Notebook,Stationery,9,4500,1530
+O1945,Nila,Central,Keyboard,Electronics,1,4500,1300
+O1946,Suresh,Southern,Water Bottle,Accessories,10,18000,7000
+O1947,Suresh,Northern,Notebook,Stationery,5,2500,850
+O1948,Suresh,Eastern,T-Shirt,Clothing,10,22000,8000
+O1949,Divya,Southern,Notebook,Stationery,6,3000,1020
+O1950,Nila,Northern,T-Shirt,Clothing,1,2200,800
+O1951,Priya,Northern,Water Bottle,Accessories,6,10800,4200
+O1952,Nila,Northern,Notebook,Stationery,5,2500,850
+O1953,Meena,Eastern,Headphones,Electronics,1,6500,1900
+O1954,Priya,Eastern,Backpack,Accessories,6,33000,9600
+O1955,Suresh,Central,Notebook,Stationery,3,1500,510
+O1956,Priya,Southern,T-Shirt,Clothing,3,6600,2400
+O1957,Suresh,Southern,Backpack,Accessories,6,33000,9600
+O1958,Nila,Western,Pen,Stationery,3,300,105
+O1959,Arun,Central,Headphones,Electronics,2,13000,3800
+O1960,Ravi,Central,Mouse,Electronics,12,30000,8400
+O1961,Kavin,Western,T-Shirt,Clothing,3,6600,2400
+O1962,Priya,Western,Notebook,Stationery,4,2000,680
+O1963,Meena,Central,Pen,Stationery,1,100,35
+O1964,Ravi,Northern,T-Shirt,Clothing,4,8800,3200
+O1965,Priya,Central,T-Shirt,Clothing,6,13200,4800
+O1966,Suresh,Northern,Headphones,Electronics,11,71500,20900
+O1967,Priya,Central,Backpack,Accessories,2,11000,3200
+O1968,Priya,Western,Notebook,Stationery,3,1500,510
+O1969,Kavin,Eastern,Mouse,Electronics,8,20000,5600
+O1970,Nila,Central,Headphones,Electronics,11,71500,20900
+O1971,Divya,Western,Mouse,Electronics,2,5000,1400
+O1972,Nila,Eastern,Mouse,Electronics,10,25000,7000
+O1973,Ravi,Northern,Keyboard,Electronics,3,13500,3900
+O1974,Nila,Central,T-Shirt,Clothing,10,22000,8000
+O1975,Priya,Central,Pen,Stationery,2,200,70
+O1976,Divya,Eastern,Water Bottle,Accessories,2,3600,1400
+O1977,Arun,Western,Pen,Stationery,11,1100,385
+O1978,Arun,Western,Keyboard,Electronics,12,54000,15600
+O1979,Kavin,Western,Headphones,Electronics,11,71500,20900
+O1980,Suresh,Central,Backpack,Accessories,3,16500,4800
+O1981,Nila,Central,Keyboard,Electronics,4,18000,5200
+O1982,Nila,Northern,Pen,Stationery,5,500,175
+O1983,Kavin,Southern,Headphones,Electronics,11,71500,20900
+O1984,Nila,Eastern,Backpack,Accessories,5,27500,8000
+O1985,Ravi,Eastern,T-Shirt,Clothing,5,11000,4000
+O1986,Ravi,Eastern,Mouse,Electronics,5,12500,3500
+O1987,Divya,Western,Backpack,Accessories,7,38500,11200
+O1988,Meena,Southern,Water Bottle,Accessories,10,18000,7000
+O1989,Suresh,Central,Headphones,Electronics,10,65000,19000
+O1990,Kavin,Central,Headphones,Electronics,11,71500,20900
+O1991,Suresh,Central,Notebook,Stationery,9,4500,1530
+O1992,Meena,Western,Mouse,Electronics,4,10000,2800
+O1993,Priya,Western,T-Shirt,Clothing,7,15400,5600
+O1994,Priya,Eastern,T-Shirt,Clothing,12,26400,9600
+O1995,Meena,Central,Headphones,Electronics,2,13000,3800
+O1996,Meena,Eastern,T-Shirt,Clothing,12,26400,9600
+O1997,Arun,Eastern,Keyboard,Electronics,8,36000,10400
+O1998,Arun,Central,Backpack,Accessories,2,11000,3200
+O1999,Nila,Southern,Headphones,Electronics,5,32500,9500
+O2000,Suresh,Southern,Notebook,Stationery,7,3500,1190
